@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rules>
   <ruleset name="Sat">
+    <rule type="Marker" Number="108" Name="Digitale GIOPPY" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrstre%20Palermo.zip" Date="26032022" />
     <rule type="Marker" Number="1" Name="Mono 13E" Link="https://picons.gioppygio.it/settings/DREAM%20E2/GioppyGio_E2_Mono_13E_27-03-2022.zip" Date="27032022" />
 	<rule type="Marker" Number="2" Name="Mono 13E + DTT Alta Murgia" Link="https://picons.gioppygio.it/settings/DREAM%20E2%2BDTT/Alta%20Murgia/GioppyGio_E2_Mono_13E%2BDTT-AltaMurgia_27-03-2022.zip" Date="27032022" />
 	<rule type="Marker" Number="3" Name="Mono 13E + DTT Avellino" Link="https://picons.gioppygio.it/settings/DREAM%20E2%2BDTT/Avellino/GioppyGio_E2_Mono_13E%2BDTT-Avellino_27-03-2022.zip" Date="27032022" />
@@ -111,5 +112,6 @@
 	<rule type="Marker" Number="106" Name="Digitale Terrestre Trepuzzi (LE)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Trepuzzi%5bLE%5d.zip" Date="31032022" />
 	<rule type="Marker" Number="107" Name="Digitale Terrestre Z.Etnea (CT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Zafferana%20Etnea.zip" Date="31032022" />
 	<rule type="Marker" Number="108" Name="Digitale Terrestre Palermo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrstre%20Palermo.zip" Date="26032022" />
+	<rule type="Marker" Number="108" Name="Digitale Terrestre Palermo TEST" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrstre%20Palermo.zip" Date="26032022" />
 	</ruleset>
 </rules>
