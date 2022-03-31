@@ -63,7 +63,7 @@
 	<rule type="Marker" Number="60" Name="Motor 75E-45W + DTT Torino" Link="https://picons.gioppygio.it/settings/DREAM%20E2+DTT/Torino/GioppyGio_E2_Motor_45W+75E+DTT-Torino_27-03-2022.zip" Date="27032022" />
   </ruleset>
   <ruleset name="dtt">
-    <rule type="Marker" Number="61" Name="Digitale Terrestre LCN Alta Murgia" Link="https://gioppygio.it/liste-dtt/DTTerrestrial-LCN-Alta-Murgia.zip" Date="26032022" />
+    <rule type="Marker" Number="61" Name="Digitale Terrestre LCN Alta Murgia" Link="https://gioppygio.it/liste-dtt/DTTerrestrial-LCN-Alta-Murgia.zip" Date="31032022" />
 	<rule type="Marker" Number="62" Name="Digitale Terrestre LCN Avellino" Link="https://gioppygio.it/liste-dtt/DTTerrestrial-LCN-Avellino.zip" Date="26032022" />
 	<rule type="Marker" Number="63" Name="Digitale Terrestre LCN BAT" Link="https://gioppygio.it/liste-dtt/DTTerrestrial-LCN-BAT.zip" Date="26032022" />
 	<rule type="Marker" Number="64" Name="Digitale Terrestre LCN Cosenza" Link="https://gioppygio.it/liste-dtt/DTTerrestrial-LCN-Cosenza.zip" Date="26032022" />
