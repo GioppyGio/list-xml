@@ -89,7 +89,7 @@
   <ruleset name="dtt">
 	<rule type="Marker" Number="84" Name="Digitale Terrestre Alta Murgia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Alta%20Murgia.zip" Date="26032022" />
 	<rule type="Marker" Number="85" Name="Digitale Terrestre Avellino" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Avellino.zip" Date="26032022" />
-	<rule type="Marker" Number="86" Name="Digitale Terrestre BAT" Link="https://gioppygio.it/liste-dtt/DTTerrestrial-LCN-BAT.zip" Date="26032022" />
+	<rule type="Marker" Number="86" Name="Digitale Terrestre BAT" Link="https://gioppygio.it/liste-dtt/DTTerrestrial-LCN-BAT.zip" Date="10042022" />
 	<rule type="Marker" Number="87" Name="Digitale Terrestre Caserta" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Caserta.zip" Date="04042022" />
 	<rule type="Marker" Number="88" Name="Digitale Terrestre Catania Barriera" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Catania%20Barriera.zip" Date="04042022" />
 	<rule type="Marker" Number="89" Name="Digitale Terrestre Cosenza" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Cosenza.zip" Date="26032022" />
