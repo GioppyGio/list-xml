@@ -2,7 +2,7 @@
 <rules>
    <ruleset name="Sat">
     <rule type="Marker" Number="1" Name="Mono 13E" Link="https://picons.gioppygio.it/settings/DREAM%20E2/GioppyGio_E2_Mono_13E_10-04-2022.zip" Date="10042022" />
-	<rule type="Marker" Number="2" Name="Mono 13E + DTT Agrigento" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Agrigento_10-04-2022.zip" Date="02042022" />
+	<rule type="Marker" Number="2" Name="Mono 13E + DTT Agrigento" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Agrigento_10-04-2022.zip" Date="10042022" />
 	<rule type="Marker" Number="3" Name="Mono 13E + DTT Alta Murgia" Link="https://picons.gioppygio.it/settings/DREAM%20E2%2BDTT/Alta%20Murgia/GioppyGio_E2_Mono_13E%2BDTT-AltaMurgia_10-04-2022.zip" Date="10042022" />
 	<rule type="Marker" Number="4" Name="Mono 13E + DTT Avellino" Link="https://picons.gioppygio.it/settings/DREAM%20E2%2BDTT/Avellino/GioppyGio_E2_Mono_13E%2BDTT-Avellino_10-04-2022.zip" Date="10042022" />
 	<rule type="Marker" Number="5" Name="Mono 13E + DTT BAT" Link="https://picons.gioppygio.it/settings/DREAM%20E2%2BDTT/Bat/GioppyGio_E2_Mono_13E%2BDTT-BAT_10-04-2022.zip" Date="10042022" />
