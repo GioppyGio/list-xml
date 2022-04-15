@@ -47,6 +47,7 @@
     <rule type="Marker" Number="44" Name="Mono 13E + DTT Viterbo" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Viterbo_10-04-2022.zip" Date="09042022" />
     <rule type="Marker" Number="45" Name="Mono 13E + DTT ZafferanaEtnea(CT)" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Zafferana-Etnea%20%28CT%29_10-04-2022.zip" Date="10042022" />
     <rule type="Marker" Number="46" Name="Mono 13E + DTT ZuCarru(PA)" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-ZuCarru%20%28PA%29_10-04-2022.zip" Date="10042022" />
+	<rule type="Marker" Number="47" Name="Mono 13E + DTT Monza Brianza" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Monza%20Brianza_10-04-2022.zip" Date="10042022" />
   </ruleset>
   <ruleset name="Satdual">
     <rule type="Marker" Number="1" Name="Dual + 9E - 13E" Link="https://picons.gioppygio.it/settings/DREAM%20E2/GioppyGio_E2_Dual_9E%2B13E_10-04-2022.zip" Date="10042022" />
@@ -145,5 +146,6 @@
     <rule type="Marker" Number="45" Name="Digitale Terrestre Z.Etnea (CT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Zafferana%20Etnea.zip" Date="08042022" />
     <rule type="Marker" Number="46" Name="Digitale Terrestre ZuCarru (PA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20ZuCarru%20(PA).zip" Date="05042022" />
     <rule type="Marker" Number="47" Name="Digitale Terrestre Roma" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma.zip" Date="15042022" />
+	<rule type="Marker" Number="48" Name="Digitale Terrestre Monza Brianza" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20%20Monza%20Brianza.zip" Date="15042022" />
   </ruleset>
 </rules>
