@@ -128,6 +128,7 @@
     <rule type="Marker" Number="27" Name="Digitale Terrestre Ponte di Piave (TV)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ponte%20di%20Piave%20(TV).zip" Date="03042022" />
     <rule type="Marker" Number="28" Name="Digitale Terrestre Porto Empedocle" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Porto%20Empedocle.zip" Date="09042022" />
     <rule type="Marker" Number="29" Name="Digitale Terrestre Putignano" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Putignano.zip" Date="09042022" />
+    <rule type="Marker" Number="47" Name="Digitale Terrestre Roma" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma.zip" Date="15042022" />
     <rule type="Marker" Number="30" Name="Digitale Terrestre Roma Aurelio" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma%20Aurelio.zip" Date="07042022" />
     <rule type="Marker" Number="31" Name="Digitale Terrestre Roma Est" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma%20Est.zip" Date="09042022" />
     <rule type="Marker" Number="32" Name="Digitale Terrestre Roma Nord" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma%20Nord.zip" Date="26032022" />
@@ -145,6 +146,5 @@
     <rule type="Marker" Number="44" Name="Digitale Terrestre Viterbo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Viterbo.zip" Date="09042022" />
     <rule type="Marker" Number="45" Name="Digitale Terrestre Z.Etnea (CT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Zafferana%20Etnea.zip" Date="08042022" />
     <rule type="Marker" Number="46" Name="Digitale Terrestre ZuCarru (PA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20ZuCarru%20(PA).zip" Date="05042022" />
-    <rule type="Marker" Number="47" Name="Digitale Terrestre Roma" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma.zip" Date="15042022" />
     </ruleset>
 </rules>
