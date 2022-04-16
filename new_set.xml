@@ -38,7 +38,7 @@
     <rule type="Marker" Number="34" Name="Mono 13E + DTT Roma" Link="https://picons.gioppygio.it/settings/DREAM%20E2+DTT/Roma/GioppyGio_E2_Mono_13E+DTT-Roma_10-04-2022.zip" Date="10042022" />
     <rule type="Marker" Number="35" Name="Mono 13E + DTT Salerno" Link="https://picons.gioppygio.it/settings/DREAM%20E2+DTT/Salerno/GioppyGio_E2_Mono_13E+DTT-Salerno_10-04-2022.zip" Date="10042022" />
     <rule type="Marker" Number="36" Name="Mono 13E + DTT San G.Rotondo (FG)" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-San%20G.%20Rotondo%20%28FG%29_10-04-2022.zip" Date="10042022" />
-    <rule type="Marker" Number="37" Name="Mono 13E + DTT Serpeddì" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Serped%C3%AC%20%28CA%29_10-04-2022.zip" Date="10042022" />
+    <rule type="Marker" Number="37" Name="Mono 13E + DTT Serpeddì" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Serped%EC%20%28CA%29_10-04-2022.zip" Date="10042022" />
     <rule type="Marker" Number="38" Name="Mono 13E + DTT Statte (TA)" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Statte%20%28TA%29_10-04-2022.zip" Date="10042022" />
     <rule type="Marker" Number="39" Name="Mono 13E + DTT Sulmona V.P." Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Sulmona-Valle%20Peleglina%20%28AQ%29_10-04-2022.zip" Date="10042022" />
     <rule type="Marker" Number="40" Name="Mono 13E + DTT Venezia" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Venezia_10-04-2022.zip" Date="10042022" />
@@ -74,7 +74,7 @@
     <rule type="Marker" Number="2" Name="Trial 5W-13E-19E" Link="https://picons.gioppygio.it/settings/DREAM%20E2/GioppyGio_E2_Trial_5W+13E+19E_10-04-2022.zip" Date="10042022" />
     <rule type="Marker" Number="3" Name="Trial 13E-16E-19E" Link="https://picons.gioppygio.it/settings/DREAM%20E2/GioppyGio_E2_Trial_13E+16E+19E_10-04-2022.zip" Date="10042022" />
     <rule type="Marker" Number="4" Name="Trial 13E-19E-30W" Link="https://picons.gioppygio.it/settings/DREAM%20E2/GioppyGio_E2_Trial_13E+19E+30W_10-04-2022.zip" Date="10042022" />
-   </ruleset>
+  </ruleset>
   <ruleset name="Satquadri">
     <rule type="Marker" Number="1" Name="Quadri 13E-19E-9E-5W" Link="https://picons.gioppygio.it/settings/DREAM%20E2/GioppyGio_E2_Quadri_13E%2B19E%2B9E%2B5W_10-04-2022.zip" Date="10042022" />
     <rule type="Marker" Number="2" Name="Quadri 9E-13E-16E-19E" Link="https://picons.gioppygio.it/settings/DREAM%20E2/GioppyGio_E2_Quadri_9E+13E+16E+19E_10-04-2022.zip" Date="10042022" />
