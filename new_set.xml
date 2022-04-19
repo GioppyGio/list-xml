@@ -26,7 +26,8 @@
     <rule type="Marker" Number="47" Name="Mono 13E + DTT Monza Brianza" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Monza%20Brianza_18-04-2022.zip" Date="18042022" />
     <rule type="Marker" Number="22" Name="Mono 13E + DTT Montelauro (CT)" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Montelauro%20%28CT%29_18-04-2022.zip" Date="18042022" />
     <rule type="Marker" Number="23" Name="Mono 13E + DTT Napoli" Link="https://picons.gioppygio.it/settings/DREAM%20E2+DTT/Napoli/GioppyGio_E2_Mono_13E+DTT-Napoli_18-04-2022.zip" Date="18042022" />
-    <rule type="Marker" Number="24" Name="Mono 13E + DTT Palermo" Link="https://picons.gioppygio.it/settings/DREAM%20E2%2BDTT/Palermo/GioppyGio_E2_Mono_13E%2BDTT-Palermo_18-04-2022.zip" Date="18042022" />
+    <rule type="Marker" Number="49" Name="Mono 13E + DTT Novara" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Novara_18-04-2022.zip" Date="18042022" />
+	<rule type="Marker" Number="24" Name="Mono 13E + DTT Palermo" Link="https://picons.gioppygio.it/settings/DREAM%20E2%2BDTT/Palermo/GioppyGio_E2_Mono_13E%2BDTT-Palermo_18-04-2022.zip" Date="18042022" />
     <rule type="Marker" Number="25" Name="Mono 13E + DTT Pescara" Link="https://picons.gioppygio.it/settings/DREAM%20E2%2BDTT/Pescara/GioppyGio_E2_Mono_13E%2BDTT-Pescara_18-04-2022.zip" Date="18042022"/>
     <rule type="Marker" Number="49" Name="Mono 13E + DTT Piacenza" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Piacenza_10-04-2022.zip" Date="18042022" />
 	<rule type="Marker" Number="26" Name="Mono 13E + DTT Pisa" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pisa_18-04-2022.zip" Date="18042022"/>
@@ -123,6 +124,7 @@
     <rule type="Marker" Number="19" Name="Digitale Terrestre Milano" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Milano.zip" Date="26032022" />
     <rule type="Marker" Number="20" Name="Digitale Terrestre Milazzo (ME)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Milazzo%20(ME).zip" Date="18042022" />
 	<rule type="Marker" Number="21" Name="Digitale Terrestre Napoli" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Napoli.zip" Date="26032022" />
+	<rule type="Marker" Number="49" Name="Digitale Terrestre Novara" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Novara.zip" Date="19042022" />
     <rule type="Marker" Number="22" Name="Digitale Terrestre Parma" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Parma.zip" Date="26032022" />
     <rule type="Marker" Number="23" Name="Digitale Terrestre Pescara" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pescara.zip" Date="06042022" />
     <rule type="Marker" Number="24" Name="Digitale Terrestre Piacenza" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Piacenza.zip" Date="03042022" />
