@@ -39,6 +39,7 @@
     <rule type="Marker" Number="32" Name="Mono 13E + DTT Roma Est" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Roma%20Est_18-04-2022.zip" Date="18042022" />
     <rule type="Marker" Number="33" Name="Mono 13E + DTT Roma Nord" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Roma%20Nord_18-04-2022.zip" Date="18042022" />
     <rule type="Marker" Number="34" Name="Mono 13E + DTT Roma" Link="https://picons.gioppygio.it/settings/DREAM%20E2+DTT/Roma/GioppyGio_E2_Mono_13E+DTT-Roma_18-04-2022.zip" Date="18042022" />
+	<rule type="Marker" Number="51" Name="Mono 13E + DTT Rosolini (SR)" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Rosolini%20%28SR%29_18-04-2022.zip" Date="18042022" />   
     <rule type="Marker" Number="35" Name="Mono 13E + DTT Salerno" Link="https://picons.gioppygio.it/settings/DREAM%20E2+DTT/Salerno/GioppyGio_E2_Mono_13E+DTT-Salerno_18-04-2022.zip" Date="18042022" />
     <rule type="Marker" Number="36" Name="Mono 13E + DTT San G.Rotondo (FG)" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-San%20G.%20Rotondo%20%28FG%29_18-04-2022.zip" Date="18042022" />
     <rule type="Marker" Number="37" Name="Mono 13E + DTT Serpeddi" Link="https://picons.gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Serpeddi%20%28CA%29_18-04-2022.zip" Date="18042022" />
@@ -137,6 +138,7 @@
     <rule type="Marker" Number="30" Name="Digitale Terrestre Roma Aurelio" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma%20Aurelio.zip" Date="07042022" />
     <rule type="Marker" Number="31" Name="Digitale Terrestre Roma Est" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma%20Est.zip" Date="09042022" />
     <rule type="Marker" Number="32" Name="Digitale Terrestre Roma Nord" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma%20Nord.zip" Date="26032022" />
+	<rule type="Marker" Number="50" Name="Digitale Terrestre Rosolini (SR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Rosolini%20(SR).zip" Date="20042022" />
     <rule type="Marker" Number="33" Name="Digitale Terrestre Palermo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Palermo.zip" Date="06042022" />
     <rule type="Marker" Number="34" Name="Digitale Terrestre Salerno" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Salerno.zip" Date="19042022" />
     <rule type="Marker" Number="35" Name="Digitale Terrestre Serpedi Cagliari" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Serpedi%20%5bCA%5d.zip" Date="0602022" />
