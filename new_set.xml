@@ -104,7 +104,7 @@
   </ruleset>
   <ruleset name="dtt">
     <rule type="Marker" Number="1" Name="Digitale Terrestre Agrigento" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Agrigento.zip" Date="09042022" />
-    <rule type="Marker" Number="2" Name="Digitale Terrestre Alta Murgia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Alta%20Murgia.zip" Date="08042022" />
+    <rule type="Marker" Number="2" Name="Digitale Terrestre Alta Murgia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Alta%20Murgia.zip" Date="21042022" />
     <rule type="Marker" Number="3" Name="Digitale Terrestre Avellino" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Avellino.zip" Date="26032022" />
     <rule type="Marker" Number="4" Name="Digitale Terrestre BAT" Link="https://gioppygio.it/liste-dtt/DTTerrestrial-LCN-BAT.zip" Date="09042022" />
     <rule type="Marker" Number="5" Name="Digitale Terrestre Caserta" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Caserta.zip" Date="04042022" />
@@ -142,7 +142,7 @@
     <rule type="Marker" Number="33" Name="Digitale Terrestre Palermo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Palermo.zip" Date="06042022" />
     <rule type="Marker" Number="34" Name="Digitale Terrestre Salerno" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Salerno.zip" Date="19042022" />
     <rule type="Marker" Number="35" Name="Digitale Terrestre Serpedi Cagliari" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Serpedi%20%5bCA%5d.zip" Date="0602022" />
-    <rule type="Marker" Number="36" Name="Digitale Terrestre Statte (TA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Statte%20%5bTA%5d.zip" Date="30032022" />
+    <rule type="Marker" Number="36" Name="Digitale Terrestre Statte (TA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Statte%20%5bTA%5d.zip" Date="21042022" />
     <rule type="Marker" Number="37" Name="Digitale Terrestre Sulmona V.P." Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Sulmona%20-%20Valle%20Peligna%20(AQ).zip" Date="08042022" />
     <rule type="Marker" Number="38" Name="Digitale Terrestre San.G.R. (FG)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20San%20Giovanni%20Rotondo%20(FG).zip" Date="26032022" />
     <rule type="Marker" Number="39" Name="Digitale Terrestre Torino" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Torino.zip" Date="26032022" />
