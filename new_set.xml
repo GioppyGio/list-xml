@@ -121,7 +121,7 @@
     <rule type="Marker" Number="10" Name="Digitale Terrestre Fermo Marche" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Fermo%20%5bMarche%5d.zip" Date="30032022" />
     <rule type="Marker" Number="11" Name="Digitale Terrestre Firenze Isolotto" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Firenze%20Isolotto.zip" Date="08042022" />
     <rule type="Marker" Number="12" Name="Digitale Terrestre Firenze Sud" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Firenze%20Sud.zip" Date="18042022" />
-	<rule type="Marker" Number="48" Name="Digitale Terrestre Forchia (BN)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20%20Forchia%20(BN).zip" Date="17042022" />
+	<rule type="Marker" Number="48" Name="Digitale Terrestre Forchia (BN)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Forchia%20(BN).zip" Date="17042022" />
     <rule type="Marker" Number="13" Name="Digitale Terrestre Gubbio" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Gubbio.zip" Date="04042022" />
     <rule type="Marker" Number="14" Name="Digitale Terrestre Italia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Italia.zip" Date="26032022" />
 	<rule type="Marker" Number="52" Name="Digitale Terrestre L'Aquila" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20L'Aquila.zip" Date="23042022" />
@@ -129,6 +129,7 @@
     <rule type="Marker" Number="16" Name="Digitale Terrestre Matera" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Matera.zip" Date="26032022" />
     <rule type="Marker" Number="17" Name="Digitale Terrestre Messina" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Messina.zip" Date="26032022" />
     <rule type="Marker" Number="18" Name="Digitale Terrestre Montelauro (CT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Montelauro%20(CT).zip" Date="26032022" />
+	<rule type="Marker" Number="55" Name="Digitale Terrestre Monza Brianza" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Monza%20Brianza.zip" Date="18042022" />
     <rule type="Marker" Number="19" Name="Digitale Terrestre Milano" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Milano.zip" Date="26032022" />
     <rule type="Marker" Number="20" Name="Digitale Terrestre Milazzo (ME)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Milazzo%20(ME).zip" Date="18042022" />
 	<rule type="Marker" Number="21" Name="Digitale Terrestre Napoli" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Napoli.zip" Date="26032022" />
