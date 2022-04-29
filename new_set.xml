@@ -9,7 +9,7 @@
     <rule type="Marker" Number="6" Name="Mono 13E + DTT Caserta" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Caserta_28-04-2022.zip" Date="28042022" />
     <rule type="Marker" Number="7" Name="Mono 13E + DTT Catania" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Catania_28-04-2022.zip" Date="28042022" />
     <rule type="Marker" Number="8" Name="Mono 13E + DTT Catania Barriera" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Catania%20Barriera_28-04-2022.zip" Date="28042022" />
-   <rule type="Marker" Number="54" Name="Mono 13E + DTT Catanzaro" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Catanzaro_28-04-2022.zip" Date="28042022" />
+    <rule type="Marker" Number="54" Name="Mono 13E + DTT Catanzaro" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Catanzaro_28-04-2022.zip" Date="28042022" />
     <rule type="Marker" Number="9" Name="Mono 13E + DTT Cosenza" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Cosenza_28-04-2022.zip" Date="28042022" />
 	<rule type="Marker" Number="55" Name="Mono 13E + DTT Crispiano (TA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Crispiano%20(TA)_28-04-2022.zip" Date="28042022" />
     <rule type="Marker" Number="10" Name="Mono 13E + DTT Firenze Isolotto" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Firenze%20Isolotto_28-04-2022.zip" Date="28042022" />
@@ -21,6 +21,7 @@
 	<rule type="Marker" Number="53" Name="Mono 13E + DTT L'Aquila" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-L'Aquila_28-04-2022.zip" Date="28042022" />
     <rule type="Marker" Number="15" Name="Mono 13E + DTT Italia" Link="https://gioppygio.it/settings/e2+dtt/Italia/GioppyGio_E2_Mono_13E+DTT-Italia_28-04-2022.zip" Date="28042022" />
     <rule type="Marker" Number="16" Name="Mono 13E + DTT Lago Garda (VR)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Lago%20di%20Garda%20(VR)_28-04-2022.zip" Date="28042022" />
+	<rule type="Marker" Number="56" Name="Mono 13E + DTT Lesignano (PR)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Lesignano%20(PR)_28-04-2022.zip" Date="28042022" />
     <rule type="Marker" Number="17" Name="Mono 13E + DTT Lecce" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Mono_13E+DTT-Lecce_28-04-2022.zip" Date="28042022" />
     <rule type="Marker" Number="18" Name="Mono 13E + DTT Matera" Link="https://gioppygio.it/settings/e2+dtt/Matera/GioppyGio_E2_Mono_13E+DTT-Matera_28-04-2022.zip" Date="28042022" />
     <rule type="Marker" Number="19" Name="Mono 13E + DTT Messina" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Messina_28-04-2022.zip" Date="28042022" />
@@ -53,7 +54,7 @@
     <rule type="Marker" Number="41" Name="Mono 13E + DTT Torino" Link="https://gioppygio.it/settings/e2+dtt/Torino/GioppyGio_E2_Mono_13E+DTT-Torino_28-04-2022.zip" Date="28042022" />
     <rule type="Marker" Number="42" Name="Mono 13E + DTT Verona Est" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Verona%20Est_28-04-2022.zip" Date="28042022" />
     <rule type="Marker" Number="43" Name="Mono 13E + DTT Villanova D'Asti" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Villanova%20D'Asti_28-04-2022.zip" Date="28042022" />
-    <rule type="Marker" Number="44" Name="Mono 13E + DTT Viterbo" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Viterbo_28-04-2022.zip" Date="09042022" />
+    <rule type="Marker" Number="44" Name="Mono 13E + DTT Viterbo" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Viterbo_28-04-2022.zip" Date="28042022" />
     <rule type="Marker" Number="45" Name="Mono 13E + DTT ZafferanaEtnea(CT)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Zafferana-Etnea%20(CT)_28-04-2022.zip" Date="28042022" />
     <rule type="Marker" Number="46" Name="Mono 13E + DTT ZuCarru(PA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-ZuCarru%20(PA)_28-04-2022.zip" Date="28042022" />
   </ruleset>
@@ -126,6 +127,7 @@
     <rule type="Marker" Number="14" Name="Digitale Terrestre Italia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Italia.zip" Date="26032022" />
 	<rule type="Marker" Number="52" Name="Digitale Terrestre L'Aquila" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20L'Aquila.zip" Date="23042022" />
     <rule type="Marker" Number="15" Name="Digitale Terrestre Lago di Garda(VR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lago%20di%20Garda%20(VR).zip" Date="01042022" />
+	<rule type="Marker" Number="56" Name="Digitale Terrestre Lesignano (PR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lesignano%20De'%20bagni%20(PR).zip" Date="29042022" />
     <rule type="Marker" Number="16" Name="Digitale Terrestre Matera" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Matera.zip" Date="26032022" />
     <rule type="Marker" Number="17" Name="Digitale Terrestre Messina" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Messina.zip" Date="26032022" />
     <rule type="Marker" Number="18" Name="Digitale Terrestre Montelauro (CT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Montelauro%20(CT).zip" Date="26032022" />
