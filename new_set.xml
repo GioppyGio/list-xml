@@ -22,6 +22,7 @@
 		<rule type="Marker" Number="11" Name="Mono 13E + DTT Firenze Sud" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Firenze%20Sud_10-06-2022.zip" Date="10062022"/>
 		<rule type="Marker" Number="48" Name="Mono 13E + DTT Forchia (BN)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Forchia%20(BN)_10-06-2022.zip" Date="10062022"/>
 		<rule type="Marker" Number="70" Name="Mono 13E + DTT Frosinone" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Frosinone_10-06-2022.zip" Date="10062022" />
+		<rule type="Marker" Number="73" Name="Mono 13E + DTT G.no Campania (NA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Giugliano%20in%20Campania%20(NA)_10-06-2022.zip" Date="10062022" />
 		<rule type="Marker" Number="65" Name="Mono 13E + DTT Gravina di Catania" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Gravina%20di%20Catania_10-06-2022.zip" Date="10062022" />
 		<rule type="Marker" Number="62" Name="Mono 13E + DTT Gravina di Puglia (BA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Gravina%20di%20Puglia%20(BA)_10-06-2022.zip" Date="10062022" />
 		<rule type="Marker" Number="12" Name="Mono 13E + DTT Enna" Link="https://gioppygio.it/settings/e2+dtt/Enna/GioppyGio_E2_Mono_13E+DTT-Enna_10-06-2022.zip" Date="10062022"/>
@@ -146,6 +147,7 @@
 		<rule type="Marker" Number="12" Name="Digitale Terrestre Firenze Sud" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Firenze%20Sud.zip" Date="27042022"/>
 		<rule type="Marker" Number="48" Name="Digitale Terrestre Forchia (BN)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Forchia%20(BN).zip" Date="17042022"/>
 		<rule type="Marker" Number="70" Name="Digitale Terrestre Frosinone" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Frosinone.zip" Date="04062022"/>
+		<rule type="Marker" Number="73" Name="Digitale Terrestre G.no Campania (NA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Giugliano%20in%20Campania%20(NA).ZIP" Date="11062022"/>
 		<rule type="Marker" Number="65" Name="Digitale Terrestre Gravina di Catania" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Gravina%20di%20Catania.zip" Date="10052022"/>
 		<rule type="Marker" Number="62" Name="Digitale Terrestre Gravina di Puglia (BA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Secinaro%20(AQ).zip" Date="04052022"/>
 		<rule type="Marker" Number="13" Name="Digitale Terrestre Gubbio" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Gubbio.zip" Date="07062022"/>
