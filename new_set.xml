@@ -55,6 +55,7 @@
 		<rule type="Marker" Number="28" Name="Mono 13E + DTT Ponte di Piave (TV)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Ponte%20di%20Piave%20(TV)_02-08-2022.zip" Date="02082022"/>
 		<rule type="Marker" Number="29" Name="Mono 13E + DTT Porto Empedocle" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Porto%20Empedocle_02-08-2022.zip" Date="02082022"/>
 		<rule type="Marker" Number="30" Name="Mono 13E + DTT Putignano" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Putignano_02-08-2022.zip" Date="02082022"/>
+		<rule type="Marker" Number="80" Name="Mono 13E + DTT Reggio Cabria" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Reggio%20Calabria_02-08-2022.zip" Date="02082022" />
 		<rule type="Marker" Number="68" Name="Mono 13E + DTT Reggio Emilia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Reggio%20Emilia_02-08-2022.zip" Date="02082022" />
 		<rule type="Marker" Number="31" Name="Mono 13E + DTT Roma Aurelio" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Roma%20Aurelio_02-08-2022.zip" Date="02082022"/>
 		<rule type="Marker" Number="32" Name="Mono 13E + DTT Roma Est" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Roma%20Est_02-08-2022.zip" Date="02082022"/>
@@ -183,6 +184,7 @@
 		<rule type="Marker" Number="27" Name="Digitale Terrestre Ponte di Piave (TV)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ponte%20di%20Piave%20(TV).zip" Date="03052022"/>
 		<rule type="Marker" Number="28" Name="Digitale Terrestre Porto Empedocle" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Porto%20Empedocle.zip" Date="16052022"/>
 		<rule type="Marker" Number="29" Name="Digitale Terrestre Putignano" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Putignano.zip" Date="09042022"/>
+		<rule type="Marker" Number="80" Name="Digitale Terrestre Reggio Cabria" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Reggio%20Calabria.zip" Date="01082022"/>
 		<rule type="Marker" Number="68" Name="Digitale Terrestre Reggio Emilia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Reggio%20Emilia.zip" Date="28052022"/>
 		<rule type="Marker" Number="47" Name="Digitale Terrestre Roma" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma.zip" Date="24062022"/>
 		<rule type="Marker" Number="30" Name="Digitale Terrestre Roma Aurelio" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma%20Aurelio.zip" Date="19062022"/>
