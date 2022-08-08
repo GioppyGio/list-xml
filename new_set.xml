@@ -52,7 +52,6 @@
 		<rule type="Marker" Number="25" Name="Mono 13E + DTT Pescara" Link="https://gioppygio.it/settings/e2+dtt/Pescara/GioppyGio_E2_Mono_13E+DTT-Pescara_02-08-2022.zip" Date="02082022"/>
 		<rule type="Marker" Number="49" Name="Mono 13E + DTT Piacenza" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Piacenza_02-08-2022.zip" Date="02082022"/>
 		<rule type="Marker" Number="26" Name="Mono 13E + DTT Pisa" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pisa_02-08-2022.zip" Date="02082022"/>
-		<rule type="Marker" Number="27" Name="Mono 13E + DTT Pomarico (MT)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pomarico%20(MT)_02-08-2022.zip" Date="02082022"/>
 		<rule type="Marker" Number="28" Name="Mono 13E + DTT Ponte di Piave (TV)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Ponte%20di%20Piave%20(TV)_02-08-2022.zip" Date="02082022"/>
 		<rule type="Marker" Number="29" Name="Mono 13E + DTT Porto Empedocle" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Porto%20Empedocle_02-08-2022.zip" Date="02082022"/>
 		<rule type="Marker" Number="81" Name="Mono 13E + DTT Prato" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Prato_02-08-2022.zip" Date="02082022" />
@@ -183,7 +182,6 @@
 		<rule type="Marker" Number="23" Name="Digitale Terrestre Pescara" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pescara.zip" Date="01082022"/>
 		<rule type="Marker" Number="24" Name="Digitale Terrestre Piacenza" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Piacenza.zip" Date="03042022"/>
 		<rule type="Marker" Number="25" Name="Digitale Terrestre Pisa" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pisa.zip" Date="19072022"/>
-		<rule type="Marker" Number="26" Name="Digitale Terrestre Pomarico (MT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pomarico%20(MT).zip" Date="02082022"/>
 		<rule type="Marker" Number="27" Name="Digitale Terrestre Ponte di Piave (TV)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ponte%20di%20Piave%20(TV).zip" Date="03052022"/>
 		<rule type="Marker" Number="28" Name="Digitale Terrestre Porto Empedocle" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Porto%20Empedocle.zip" Date="16052022"/>
 		<rule type="Marker" Number="81" Name="Digitale Terrestre Prato" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Prato.zip" Date="04082022"/>
