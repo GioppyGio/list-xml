@@ -65,6 +65,7 @@
 		<rule type="Marker" Number="75" Name="Mono 13E + DTT S.Antonio Abate (NA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-S.Antonio%20Abate(NA)_11-08-2022.zip" Date="11082022" />
 		<rule type="Marker" Number="35" Name="Mono 13E + DTT Salerno" Link="https://gioppygio.it/settings/e2+dtt/Salerno/GioppyGio_E2_Mono_13E+DTT-Salerno_11-08-2022.zip" Date="11082022"/>
 		<rule type="Marker" Number="36" Name="Mono 13E + DTT San G.Rotondo (FG)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-San%20G.%20Rotondo%20(FG)_11-08-2022.zip" Date="11082022"/>
+		<rule type="Marker" Number="81" Name="Mono 13E + DTT S.B.del Tronto" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-San%20Benedetto%20del%20Tronto_11-08-2022.zip" Date="11082022" />
 		<rule type="Marker" Number="63" Name="Mono 13E + DTT Santeramo (BA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Santeramo%20in%20Colle%20%20(BA)_11-08-2022.zip" Date="11082022" />
 		<rule type="Marker" Number="61" Name="Mono 13E + DTT Sacinaro (AQ)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Secinaro%20(AQ)_11-08-2022.zip" Date="11082022" />
 		<rule type="Marker" Number="37" Name="Mono 13E + DTT Serpeddi" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Serpeddi%20(CA)_11-08-2022.zip" Date="11082022"/>
@@ -194,6 +195,7 @@
 		<rule type="Marker" Number="50" Name="Digitale Terrestre Rosolini (SR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Rosolini%20(SR).zip" Date="03052022"/>
 		<rule type="Marker" Number="75" Name="Digitale Terrestre S.Antonio Abate (NA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20S.Antonio%20Abate%20(NA).zip" Date="24062022"/>
 		<rule type="Marker" Number="34" Name="Digitale Terrestre Salerno" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Salerno.zip" Date="19042022"/>
+		<rule type="Marker" Number="81" Name="Digitale Terrestre S.B.del Tronto" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20San%20Benedetto%20del%20Tronto.zip" Date="11082022"/>
 		<rule type="Marker" Number="35" Name="Digitale Terrestre Serpedi Cagliari" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Serpedi%20%5bCA%5d.zip" Date="0602022"/>
 		<rule type="Marker" Number="77" Name="Digitale Terrestre Sicicli (RG)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Sicicli%20(RG).zip" Date="02072022"/>
 		<rule type="Marker" Number="69" Name="Digitale Terrestre Spoleto" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Spoleto.zip" Date="03062022"/>
