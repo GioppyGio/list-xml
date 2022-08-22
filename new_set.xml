@@ -134,7 +134,7 @@
 		<rule type="Marker" Number="16" Name="Motor 75E-45W + DTT Torino" Link="https://gioppygio.it/settings/e2+dtt/Torino/GioppyGio_E2_Motor_45W+75E+DTT-Torino_11-08-2022.zip" Date="11082022"/>
 	</ruleset>
 	<ruleset name="dtt">
-		<rule type="Marker" Number="1" Name="Digitale Terrestre Agrigento" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Agrigento.zip" Date="22072022"/>
+		<rule type="Marker" Number="1" Name="Digitale Terrestre Agrigento" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Agrigento.zip" Date="22082022"/>
 		<rule type="Marker" Number="82" Name="Digitale Terrestre Alt.Villa Milicia (PA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Alt.Villa%20Milicia%20(PA).zip" Date="19082022"/>
 		<rule type="Marker" Number="2" Name="Digitale Terrestre Alta Murgia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Alta%20Murgia.zip" Date="21042022"/>
 		<rule type="Marker" Number="3" Name="Digitale Terrestre Avellino" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Avellino.zip" Date="26032022"/>
