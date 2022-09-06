@@ -73,8 +73,8 @@
 		<rule type="Marker" Number="61" Name="Mono 13E + DTT Sacinaro (AQ)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Secinaro%20(AQ)_02-09-2022.zip" Date="02092022" />
 		<rule type="Marker" Number="37" Name="Mono 13E + DTT Serpeddi" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Serpeddi%20(CA)_02-09-2022.zip" Date="02092022"/>
 		<rule type="Marker" Number="77" Name="Mono 13E + DTT Sicicli (RG)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Sicicli%20(RG)_02-09-2022.zip" Date="02092022" />
+		<rule type="Marker" Number="38" Name="Mono 13E + DTT Sperlonga (LT)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Sperlonga%20(LT)_02-09-2022.zip" Date="02092022"/>
 		<rule type="Marker" Number="69" Name="Mono 13E + DTT Spoleto" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Spoleto_02-09-2022.zip" Date="02092022" />
-		<rule type="Marker" Number="38" Name="Mono 13E + DTT Statte (TA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Statte%20(TA)_02-09-2022.zip" Date="02092022"/>
 		<rule type="Marker" Number="39" Name="Mono 13E + DTT Sulmona V.P." Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Sulmona-Valle%20Peleglina%20(AQ)_02-09-2022.zip" Date="02092022"/>
 		<rule type="Marker" Number="56" Name="Mono 13E + DTT Trento" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Trento_02-09-2022.zip" Date="02092022"/>
 		<rule type="Marker" Number="60" Name="Mono 13E + DTT Udine" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Udine_02-09-2022.zip" Date="02092022" />
@@ -203,8 +203,8 @@
 		<rule type="Marker" Number="81" Name="Digitale Terrestre S.B.del Tronto" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20San%20Benedetto%20del%20Tronto.zip" Date="12082022"/>
 		<rule type="Marker" Number="35" Name="Digitale Terrestre Serpedi Cagliari" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Serpedi%20%5bCA%5d.zip" Date="0602022"/>
 		<rule type="Marker" Number="77" Name="Digitale Terrestre Sicicli (RG)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Sicicli%20(RG).zip" Date="02072022"/>
+		<rule type="Marker" Number="36" Name="Digitale Terrestre Sperlonga (LT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Sperlonga%20(LT).zip" Date="06092022"/>
 		<rule type="Marker" Number="69" Name="Digitale Terrestre Spoleto" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Spoleto.zip" Date="03062022"/>
-		<rule type="Marker" Number="36" Name="Digitale Terrestre Statte (TA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Statte%20%5bTA%5d.zip" Date="21042022"/>
 		<rule type="Marker" Number="37" Name="Digitale Terrestre Sulmona V.P." Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Sulmona%20-%20Valle%20Peligna%20(AQ).zip" Date="02072022"/>
 		<rule type="Marker" Number="38" Name="Digitale Terrestre San.G.R. (FG)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20San%20Giovanni%20Rotondo%20(FG).zip" Date="26032022"/>
 		<rule type="Marker" Number="63" Name="Digitale Terrestre Santeramo (BA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Santeramo%20in%20Colle%20%20(BA).zip" Date="13062022"/>
@@ -212,11 +212,11 @@
 		<rule type="Marker" Number="39" Name="Digitale Terrestre Torino" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Torino.zip" Date="08062022"/>
 		<rule type="Marker" Number="56" Name="Digitale Terrestre Trento" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Trento.zip" Date="01092022"/>
 		<rule type="Marker" Number="40" Name="Digitale Terrestre Trepuzzi (LE)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Trepuzzi%5bLE%5d.zip" Date="09082022"/>
-		<rule type="Marker" Number="60" Name="Digitale Terrestre Udine" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Udine.zip" Date="19082022"/>
+		<rule type="Marker" Number="60" Name="Digitale Terrestre Udine" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Udine.zip" Date="06092022"/>
 		<rule type="Marker" Number="41" Name="Digitale Terrestre Venezia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Venezia.zip" Date="22072022"/>
 		<rule type="Marker" Number="42" Name="Digitale Terrestre Verona Est" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Verona%20Est.zip" Date="03042022"/>
 		<rule type="Marker" Number="43" Name="Digitale Terrestre Villanova D'Asti" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Villanova%20D'Asti.zip" Date="22072022"/>
 		<rule type="Marker" Number="44" Name="Digitale Terrestre Viterbo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Viterbo.zip" Date="09042022"/>
-		<rule type="Marker" Number="45" Name="Digitale Terrestre Z.Etnea (CT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Zafferana%20Etnea.zip" Date="24062022"/>
+		<rule type="Marker" Number="45" Name="Digitale Terrestre Z.Etnea (CT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Sperlonga%20(LT).zip" Date="2402022"/>
 	</ruleset>
 </rules>
