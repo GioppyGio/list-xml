@@ -24,6 +24,7 @@
 		<rule type="Marker" Number="58" Name="Mono 13E + DTT Figline Valdarno (FI)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-F.Valdarno%20(FI)_12-09-2022.zip" Date="12092022" />
 		<rule type="Marker" Number="11" Name="Mono 13E + DTT Firenze Sud" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Firenze%20Sud_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="82" Name="Mono 13E + DTT Firenze" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Firenze_12-09-2022.zip" Date="12092022" />
+		<rule type="Marker" Number="16" Name="Mono 13E + DTT Fondi(LT)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Fondi%20(LT)_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="48" Name="Mono 13E + DTT Forchia (BN)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Forchia%20(BN)_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="70" Name="Mono 13E + DTT Frosinone" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Frosinone_12-09-2022.zip" Date="12092022" />
 		<rule type="Marker" Number="73" Name="Mono 13E + DTT G.no Campania (NA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Giugliano%20in%20Campania%20(NA)_12-09-2022.zip" Date="12092022" />
@@ -35,7 +36,6 @@
 		<rule type="Marker" Number="83" Name="Mono 13E + DTT Itri (LT)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Itri%20(LT)_12-09-2022.zip" Date="12092022" />
 		<rule type="Marker" Number="53" Name="Mono 13E + DTT L'Aquila" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-L'Aquila_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="15" Name="Mono 13E + DTT Italia" Link="https://gioppygio.it/settings/e2+dtt/Italia/GioppyGio_E2_Mono_13E+DTT-Italia_12-09-2022.zip" Date="12092022"/>
-		<rule type="Marker" Number="16" Name="Mono 13E + DTT Lago Garda (VR)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Lago%20di%20Garda%20(VR)_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="79" Name="Mono 13E + DTT Lecco" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Lecco_12-09-2022.zip" Date="12092022" />
 		<rule type="Marker" Number="27" Name="Mono 13E + DTT Martina Franca (TA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Martina%20Franca_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="17" Name="Mono 13E + DTT Lecce" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Mono_13E+DTT-Lecce_12-09-2022.zip" Date="12092022"/>
@@ -160,6 +160,7 @@
 		<rule type="Marker" Number="10" Name="Digitale Terrestre Fermo Marche" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Fermo%20%5bMarche%5d.zip" Date="19082022"/>
 		<rule type="Marker" Number="82" Name="Digitale Terrestre Firenze" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Firenze.zip" Date="03092022"/>
 		<rule type="Marker" Number="12" Name="Digitale Terrestre Firenze Sud" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Firenze%20Sud.zip" Date="27042022"/>
+		<rule type="Marker" Number="15" Name="Digitale Terrestre Fondi(LT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Fondi%20(LT).zip" Date="16092022"/>
 		<rule type="Marker" Number="48" Name="Digitale Terrestre Forchia (BN)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Forchia%20(BN).zip" Date="02072022"/>
 		<rule type="Marker" Number="70" Name="Digitale Terrestre Frosinone" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Frosinone.zip" Date="24082022"/>
 		<rule type="Marker" Number="73" Name="Digitale Terrestre G.no Campania (NA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Giugliano%20in%20Campania%20(NA).zip" Date="11062022"/>
@@ -169,7 +170,6 @@
 		<rule type="Marker" Number="14" Name="Digitale Terrestre Italia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Italia.zip" Date="29082022"/>
 		<rule type="Marker" Number="83" Name="Digitale Terrestre Itri (LT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Itri%20(LT).zip" Date="25082022"/>
 		<rule type="Marker" Number="52" Name="Digitale Terrestre L'Aquila" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20L'Aquila.zip" Date="30062022"/>
-		<rule type="Marker" Number="15" Name="Digitale Terrestre Lago di Garda(VR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lago%20di%20Garda%20(VR).zip" Date="01042022"/>
 		<rule type="Marker" Number="79" Name="Digitale Terrestre Lecco" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lecco.zip" Date="31072022"/>
 		<rule type="Marker" Number="26" Name="Digitale Terrestre Martina Franca (TA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Martina%20Franca.zip" Date="08082022"/>
 		<rule type="Marker" Number="16" Name="Digitale Terrestre Matera" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Matera.zip" Date="03092022"/>
