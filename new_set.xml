@@ -7,7 +7,7 @@
 		<rule type="Marker" Number="72" Name="Mono 13E + DTT Bari" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Bari_12-09-2022.zip" Date="12092022" />
 		<rule type="Marker" Number="57" Name="Mono 13E + DTT Besozzo (VA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Besozzo%20(VA)_12-09-2022.zip" Date="12092022" />
 		<rule type="Marker" Number="64" Name="Mono 13E + DTT Bolzano" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Bolzano_12-09-2022.zip" Date="12092022" />
-		<rule type="Marker" Number="71" Name="Mono 13E + DTT Campi S.na (LE)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-CampiSalentina_12-09-2022.zip" Date="12092022" />
+		<rule type="Marker" Number="71" Name="Mono 13E + DTT Caprino Veronese (VR)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Caprino%20Veronese%20(VR)_12-09-2022.zip" Date="12092022" />
 		<rule type="Marker" Number="49" Name="Mono 13E + DTT Campana (CS)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Canpana%20(CS)_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="3" Name="Mono 13E + DTT Alta Murgia" Link="https://gioppygio.it/settings/e2+dtt/Alta%20Murgia/GioppyGio_E2_Mono_13E+DTT-AltaMurgia_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="4" Name="Mono 13E + DTT Avellino" Link="https://gioppygio.it/settings/e2+dtt/Avellino/GioppyGio_E2_Mono_13E+DTT-Avellino_12-09-2022.zip" Date="12092022"/>
@@ -145,7 +145,7 @@
 		<rule type="Marker" Number="57" Name="Digitale Terrestre Besozzo (VA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Besozzo%20(VA).zip" Date="19082022" />
 		<rule type="Marker" Number="64" Name="Digitale Terrestre Bolzano" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Bolzano.zip" Date="20072022"/>
 		<rule type="Marker" Number="24" Name="Digitale Terrestre Campana (CS)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Campana%20(CS).zip" Date="07092022"/>
-		<rule type="Marker" Number="71" Name="Digitale Terrestre Campi S.na (LE)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Campi%20Salentina.zip" Date="07062022"/>
+		<rule type="Marker" Number="71" Name="Digitale Terrestre Caprino Veronese (VR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Caprino%20Veronese%20(VR).zip" Date="17092022"/>
 		<rule type="Marker" Number="5" Name="Digitale Terrestre Caserta" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Caserta.zip" Date="03092022"/>
 		<rule type="Marker" Number="84" Name="Digitale Terrestre Castellammare Stabia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Castellammare%20di%20Stabia.zip" Date="11092022"/>
 		<rule type="Marker" Number="6" Name="Digitale Terrestre Catania" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Catania.zip" Date="12042022"/>
