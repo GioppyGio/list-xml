@@ -24,7 +24,6 @@
 		<rule type="Marker" Number="58" Name="Mono 13E + DTT Figline Valdarno (FI)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-F.Valdarno%20(FI)_12-09-2022.zip" Date="12092022" />
 		<rule type="Marker" Number="11" Name="Mono 13E + DTT Firenze Sud" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Firenze%20Sud_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="82" Name="Mono 13E + DTT Firenze" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Firenze_12-09-2022.zip" Date="12092022" />
-		<rule type="Marker" Number="16" Name="Mono 13E + DTT Fondi(LT)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Fondi%20(LT)_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="48" Name="Mono 13E + DTT Forchia (BN)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Forchia%20(BN)_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="70" Name="Mono 13E + DTT Frosinone" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Frosinone_12-09-2022.zip" Date="12092022" />
 		<rule type="Marker" Number="73" Name="Mono 13E + DTT G.no Campania (NA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Giugliano%20in%20Campania%20(NA)_12-09-2022.zip" Date="12092022" />
@@ -36,6 +35,7 @@
 		<rule type="Marker" Number="83" Name="Mono 13E + DTT Itri (LT)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Itri%20(LT)_12-09-2022.zip" Date="12092022" />
 		<rule type="Marker" Number="53" Name="Mono 13E + DTT L'Aquila" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-L'Aquila_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="15" Name="Mono 13E + DTT Italia" Link="https://gioppygio.it/settings/e2+dtt/Italia/GioppyGio_E2_Mono_13E+DTT-Italia_12-09-2022.zip" Date="12092022"/>
+		<rule type="Marker" Number="16" Name="Mono 13E + DTT Lago Garda (VR)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Lago%20di%20Garda%20(VR)_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="79" Name="Mono 13E + DTT Lecco" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Lecco_12-09-2022.zip" Date="12092022" />
 		<rule type="Marker" Number="27" Name="Mono 13E + DTT Martina Franca (TA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Martina%20Franca_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="17" Name="Mono 13E + DTT Lecce" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Mono_13E+DTT-Lecce_12-09-2022.zip" Date="12092022"/>
@@ -58,7 +58,6 @@
 		<rule type="Marker" Number="28" Name="Mono 13E + DTT Ponte di Piave (TV)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Ponte%20di%20Piave%20(TV)_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="29" Name="Mono 13E + DTT Porto Empedocle" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Porto%20Empedocle_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="59" Name="Mono 13E + DTT Prato" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Prato_12-09-2022.zip" Date="12092022" />
-		<rule type="Marker" Number="30" Name="Mono 13E + DTT Putignano" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Putignano_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="80" Name="Mono 13E + DTT Reggio Cabria" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Reggio%20Calabria_12-09-2022.zip" Date="12092022" />
 		<rule type="Marker" Number="68" Name="Mono 13E + DTT Reggio Emilia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Reggio%20Emilia_12-09-2022.zip" Date="12092022" />
 		<rule type="Marker" Number="31" Name="Mono 13E + DTT Roma Aurelio" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Roma%20Aurelio_12-09-2022.zip" Date="12092022"/>
@@ -66,6 +65,7 @@
 		<rule type="Marker" Number="33" Name="Mono 13E + DTT Roma Nord" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Roma%20Nord_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="34" Name="Mono 13E + DTT Roma" Link="https://gioppygio.it/settings/e2+dtt/Roma/GioppyGio_E2_Mono_13E+DTT-Roma_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="51" Name="Mono 13E + DTT Rosolini (SR)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Rosolini%20(SR)_12-09-2022.zip" Date="12092022"/>
+		<rule type="Marker" Number="30" Name="Mono 13E + DTT S.Agata li Battiati (CT)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-S.Agata%20li%20Battiati%20(CT)_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="75" Name="Mono 13E + DTT S.Antonio Abate (NA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-S.Antonio%20Abate(NA)_12-09-2022.zip" Date="12092022" />
 		<rule type="Marker" Number="35" Name="Mono 13E + DTT Salerno" Link="https://gioppygio.it/settings/e2+dtt/Salerno/GioppyGio_E2_Mono_13E+DTT-Salerno_12-09-2022.zip" Date="12092022"/>
 		<rule type="Marker" Number="36" Name="Mono 13E + DTT San G.Rotondo (FG)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-San%20G.%20Rotondo%20(FG)_12-09-2022.zip" Date="12092022"/>
@@ -160,7 +160,6 @@
 		<rule type="Marker" Number="10" Name="Digitale Terrestre Fermo Marche" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Fermo%20%5bMarche%5d.zip" Date="19082022"/>
 		<rule type="Marker" Number="82" Name="Digitale Terrestre Firenze" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Firenze.zip" Date="03092022"/>
 		<rule type="Marker" Number="12" Name="Digitale Terrestre Firenze Sud" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Firenze%20Sud.zip" Date="27042022"/>
-		<rule type="Marker" Number="15" Name="Digitale Terrestre Fondi(LT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Fondi%20(LT).zip" Date="16092022"/>
 		<rule type="Marker" Number="48" Name="Digitale Terrestre Forchia (BN)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Forchia%20(BN).zip" Date="02072022"/>
 		<rule type="Marker" Number="70" Name="Digitale Terrestre Frosinone" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Frosinone.zip" Date="24082022"/>
 		<rule type="Marker" Number="73" Name="Digitale Terrestre G.no Campania (NA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Giugliano%20in%20Campania%20(NA).zip" Date="11062022"/>
@@ -170,6 +169,7 @@
 		<rule type="Marker" Number="14" Name="Digitale Terrestre Italia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Italia.zip" Date="29082022"/>
 		<rule type="Marker" Number="83" Name="Digitale Terrestre Itri (LT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Itri%20(LT).zip" Date="25082022"/>
 		<rule type="Marker" Number="52" Name="Digitale Terrestre L'Aquila" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20L'Aquila.zip" Date="30062022"/>
+		<rule type="Marker" Number="15" Name="Digitale Terrestre Lago di Garda(VR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lago%20di%20Garda%20(VR).zip" Date="01042022"/>
 		<rule type="Marker" Number="79" Name="Digitale Terrestre Lecco" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lecco.zip" Date="31072022"/>
 		<rule type="Marker" Number="26" Name="Digitale Terrestre Martina Franca (TA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Martina%20Franca.zip" Date="08082022"/>
 		<rule type="Marker" Number="16" Name="Digitale Terrestre Matera" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Matera.zip" Date="03092022"/>
@@ -191,7 +191,6 @@
 		<rule type="Marker" Number="27" Name="Digitale Terrestre Ponte di Piave (TV)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ponte%20di%20Piave%20(TV).zip" Date="03052022"/>
 		<rule type="Marker" Number="28" Name="Digitale Terrestre Porto Empedocle" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Porto%20Empedocle.zip" Date="16052022"/>
 		<rule type="Marker" Number="59" Name="Digitale Terrestre Prato" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Prato.zip" Date="04082022"/>
-		<rule type="Marker" Number="29" Name="Digitale Terrestre Putignano" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Putignano.zip" Date="09042022"/>
 		<rule type="Marker" Number="80" Name="Digitale Terrestre Reggio Cabria" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Reggio%20Calabria.zip" Date="01082022"/>
 		<rule type="Marker" Number="68" Name="Digitale Terrestre Reggio Emilia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Reggio%20Emilia.zip" Date="28052022"/>
 		<rule type="Marker" Number="47" Name="Digitale Terrestre Roma" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma.zip" Date="24082022"/>
@@ -199,6 +198,7 @@
 		<rule type="Marker" Number="31" Name="Digitale Terrestre Roma Est" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma%20Est.zip" Date="13052022"/>
 		<rule type="Marker" Number="32" Name="Digitale Terrestre Roma Nord" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma%20Nord.zip" Date="26032022"/>
 		<rule type="Marker" Number="33" Name="Digitale Terrestre Palermo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Palermo.zip" Date="25082022"/>
+		<rule type="Marker" Number="29" Name="Digitale Terrestre S.Agata li Battiati (CT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20S.Agata%20li%20Battiati%20(CT).zip" Date="17092022"/>
 		<rule type="Marker" Number="50" Name="Digitale Terrestre Rosolini (SR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Rosolini%20(SR).zip" Date="03052022"/>
 		<rule type="Marker" Number="75" Name="Digitale Terrestre S.Antonio Abate (NA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20S.Antonio%20Abate%20(NA).zip" Date="24062022"/>
 		<rule type="Marker" Number="34" Name="Digitale Terrestre Salerno" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Salerno.zip" Date="27082022"/>
