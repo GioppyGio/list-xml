@@ -119,6 +119,7 @@
 		<rule type="Marker" Number="1" Name="Quadri 13E-19E-9E-5W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+19E+9E+5W_06-10-2022.zip" Date="06102022"/>
 		<rule type="Marker" Number="2" Name="Quadri 9E-13E-16E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_9E+13E+16E+19E_06-10-2022.zip" Date="06102022"/>
 		<rule type="Marker" Number="3" Name="Quadri 13E-16E-19E-30W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+16E+19E+30W_06-10-2022.zip" Date="06102022"/>
+		<rule type="Marker" Number="4" Name="Quadri 13E-19E-23E-28E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+19E+23E+28E_06-10-2022.zip" Date="06102022"/>
 	</ruleset>
 	<ruleset name="Satmotor">
 		<rule type="Marker" Number="1" Name="Motor  75E-45W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Motor_75E-45W_06-10-2022.zip" Date="06102022"/>
