@@ -20,6 +20,7 @@
 		<rule type="Marker" Number="17" Name="Mono 13E + DTT Emilia Romagna" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Emilia%20Romagna_10-01-2023.zip" Date="10012023"/>
 		<rule type="Marker" Number="18" Name="Mono 13E + DTT FiglineValdarno" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-FiglineValdarno_10-01-2023.zip" Date="10012023"/>
 		<rule type="Marker" Number="19" Name="Mono 13E + DTT Firenze" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Firenze_10-01-2023.zip" Date="10012023"/>
+		<rule type="Marker" Number="92" Name="Mono 13E + DTT Foggia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Foggia_10-01-2023.zip" Date="10012023"/>
 		<rule type="Marker" Number="20" Name="Mono 13E + DTT Forchia (BN)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Forchia%20(BN)_10-01-2023.zip" Date="10012023"/>
 		<rule type="Marker" Number="21" Name="Mono 13E + DTT Frosinone" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Frosinone_10-01-2023.zip" Date="10012023"/>
 		<rule type="Marker" Number="22" Name="Mono 13E + DTT G.no Campania (NA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Giugliano%20in%20Campania%20(NA)_10-01-2023.zip" Date="10012023"/>
@@ -160,6 +161,7 @@
 		<rule type="Marker" Number="18" Name="Digitale Terrestre Fermo Marche" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Fermo%20%5bMarche%5d.zip" Date="28122022"/>
 		<rule type="Marker" Number="19" Name="Digitale Terrestre FiglineValdarno" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20FiglineValdarno.zip" Date="12012023"/>
 		<rule type="Marker" Number="20" Name="Digitale Terrestre Firenze" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Firenze.zip" Date="15122022"/>
+		<rule type="Marker" Number="91" Name="Digitale Terrestre Foggia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Foggia.zip" Date="15012023"/>
 		<rule type="Marker" Number="21" Name="Digitale Terrestre Forchia (BN)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Forchia%20(BN).zip" Date="15122022"/>
 		<rule type="Marker" Number="22" Name="Digitale Terrestre Frosinone" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Frosinone.zip" Date="15122022"/>
 		<rule type="Marker" Number="23" Name="Digitale Terrestre G.no Campania (NA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Giugliano%20in%20Campania%20(NA).zip" Date="15122022"/>
