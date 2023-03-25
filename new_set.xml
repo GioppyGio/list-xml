@@ -86,6 +86,7 @@
 		<rule type="Marker" Number="77" Name="Mono 13E + DTT Spoleto" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Spoleto_22-03-2023.zip" Date="22032023"/>
 		<rule type="Marker" Number="78" Name="Mono 13E + DTT Sulmona V.P." Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Sulmona-Valle%20Peleglina%20(AQ)_22-03-2023.zip" Date="22032023"/>
 		<rule type="Marker" Number="93" Name="Mono 13E + DTT Taranto" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Taranto_22-03-2023.zip" Date="22032023"/>
+		<rule type="Marker" Number="98" Name="Mono 13E + DTT Trani" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Trani_22-03-2023.zip" Date="22032023"/>
 		<rule type="Marker" Number="79" Name="Mono 13E + DTT Trapani" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Trapani_22-03-2023.zip" Date="22032023"/>
 		<rule type="Marker" Number="80" Name="Mono 13E + DTT Torino" Link="https://gioppygio.it/settings/e2+dtt/Torino/GioppyGio_E2_Mono_13E+DTT-Torino_22-03-2023.zip" Date="22032023"/>
 		<rule type="Marker" Number="81" Name="Mono 13E + DTT Trento" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Trento_22-03-2023.zip" Date="22032023"/>
@@ -230,6 +231,7 @@
 		<rule type="Marker" Number="81" Name="Digitale Terrestre Secinaro (AQ)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Secinaro%20(AQ).zip" Date="04122022"/>
 		<rule type="Marker" Number="82" Name="Digitale Terrestre Taranto" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Taranto.zip" Date="16012023"/>
 		<rule type="Marker" Number="83" Name="Digitale Terrestre Torino" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Torino.zip" Date="30122022"/>
+		<rule type="Marker" Number="97" Name="Digitale Terrestre Trani" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Trani.zip" Date="25032023"/>
 		<rule type="Marker" Number="84" Name="Digitale Terrestre Trapani" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Trapani.zip" Date="24032023"/>
 		<rule type="Marker" Number="85" Name="Digitale Terrestre Trento" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Trento.zip" Date="29112022"/>
 		<rule type="Marker" Number="86" Name="Digitale Terrestre Trepuzzi (LE)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Trepuzzi%5bLE%5d.zip" Date="07032023"/>
