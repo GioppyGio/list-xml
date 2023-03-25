@@ -164,7 +164,7 @@
 		<rule type="Marker" Number="16" Name="Digitale Terrestre Emilia Romagna" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Emilia%20Romagna.zip" Date="18122022"/>
 		<rule type="Marker" Number="17" Name="Digitale Terrestre Enna" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Sicilia%20Centrale%20%5bENNA%5d.zip" Date="03012023"/>
 		<rule type="Marker" Number="18" Name="Digitale Terrestre Fermo Marche" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Fermo%20%5bMarche%5d.zip" Date="23022023"/>
-		<rule type="Marker" Number="19" Name="Digitale Terrestre FiglineValdarno" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20FiglineValdarno.zip" Date="04032023"/>
+		<rule type="Marker" Number="19" Name="Digitale Terrestre FiglineValdarno" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20FiglineValdarno.zip" Date="25032023"/>
 		<rule type="Marker" Number="20" Name="Digitale Terrestre Firenze" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Firenze.zip" Date="19012023"/>
 		<rule type="Marker" Number="21" Name="Digitale Terrestre Foggia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Foggia.zip" Date="15012023"/>
 		<rule type="Marker" Number="22" Name="Digitale Terrestre Forchia (BN)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Forchia%20(BN).zip" Date="15122022"/>
@@ -179,7 +179,7 @@
 		<rule type="Marker" Number="31" Name="Digitale Terrestre Lago di Garda(VR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lago%20di%20Garda%20(VR).zip" Date="01122022"/>
 		<rule type="Marker" Number="96" Name="Digitale Terrestre Lecco" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lecco.zip" Date="12032023"/>
 		<rule type="Marker" Number="32" Name="Digitale Terrestre Besozzo (VA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Besozzo%20(VA).zip" Date="04032023"/>
-		<rule type="Marker" Number="33" Name="Digitale Terrestre Lesignano Bagni (PR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lesignano%20Bagni%20(PR).zip" Date="02112022"/>
+		<rule type="Marker" Number="33" Name="Digitale Terrestre Lesignano Bagni (PR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lesignano%20Bagni%20(PR).zip" Date="25032023"/>
 		<rule type="Marker" Number="34" Name="Digitale Terrestre Lucca" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lucca.zip" Date="26022023"/>
 		<rule type="Marker" Number="35" Name="Digitale Terrestre Martina Franca (TA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Martina%20Franca.zip" Date="13122022"/>
 		<rule type="Marker" Number="36" Name="Digitale Terrestre Matera" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Matera.zip" Date="18032023"/>
@@ -239,7 +239,7 @@
 		<rule type="Marker" Number="90" Name="Digitale Terrestre Venezia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Venezia.zip" Date="21032023"/>
 		<rule type="Marker" Number="91" Name="Digitale Terrestre Verona Est" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Verona%20Est.zip" Date="26122022"/>
 		<rule type="Marker" Number="92" Name="Digitale Terrestre Verona Sud" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Verona%20Sud.zip" Date="29112022"/>
-		<rule type="Marker" Number="93" Name="Digitale Terrestre Villanova D'Asti" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Villanova%20D'Asti.zip" Date="21122022"/>
+		<rule type="Marker" Number="93" Name="Digitale Terrestre Villanova D'Asti" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Villanova%20D'Asti.zip" Date="25032023"/>
 		<rule type="Marker" Number="94" Name="Digitale Terrestre Viterbo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Viterbo.zip" Date="27112022"/>
 		<rule type="Marker" Number="95" Name="Digitale Terrestre Voghera (PV)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Voghera%20(PV).zip" Date="27022023"/>
 	</ruleset>
