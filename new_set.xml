@@ -54,6 +54,7 @@
 		<rule type="Marker" Number="46" Name="Mono 13E + DTT Novara" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Novara_27-04-2023.zip" Date="27042023"/>
 		<rule type="Marker" Number="47" Name="Mono 13E + DTT Oschiri (SS)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Oschiri%20(SS)_27-04-2023.zip" Date="27042023"/>
 		<rule type="Marker" Number="48" Name="Mono 13E + DTT Parabita (LE)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Parabita%20(LE)_27-04-2023.zip" Date="27042023"/>
+		<rule type="Marker" Number="102" Name="Mono 13E + DTT Parma" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Parma_27-04-2023.zip" Date="27042023"/>
 		<rule type="Marker" Number="5" Name="Mono 13E + DTT Pavia-Nord" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pavia-Nord_27-04-2023.zip" Date="27042023"/>
 		<rule type="Marker" Number="49" Name="Mono 13E + DTT Piacenza" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Piacenza_27-04-2023.zip" Date="27042023"/>
 		<rule type="Marker" Number="96" Name="Mono 13E + DTT Pianoro (BO)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pianoro%20(BO)_27-04-2023.zip" Date="10012023"/>
@@ -203,6 +204,7 @@
 		<rule type="Marker" Number="49" Name="Digitale Terrestre Oschiri (SS)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Oschiri%20(SS).zip" Date="29122022"/>
 		<rule type="Marker" Number="50" Name="Digitale Terrestre Palermo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Palermo.zip" Date="1732023"/>
 		<rule type="Marker" Number="51" Name="Digitale Terrestre Parabita (LE)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Parabita%20(LE).zip" Date="21122022"/>
+		<rule type="Marker" Number="101" Name="Digitale Terrestre Parma" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Parma.zip" Date="28042023"/>
 		<rule type="Marker" Number="52" Name="Digitale Terrestre Pavia-Nord" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pavia-Nord.zip" Date="290182023"/>
 		<rule type="Marker" Number="53" Name="Digitale Terrestre Pescara" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pescara.zip" Date="23122022"/>
 		<rule type="Marker" Number="54" Name="Digitale Terrestre Piacenza" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Piacenza.zip" Date="10122022"/>
