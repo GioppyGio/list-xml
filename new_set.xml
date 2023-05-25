@@ -59,7 +59,7 @@
 		<rule type="Marker" Number="48" Name="Mono 13E + DTT Parabita (LE)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Parabita%20(LE)_22-05-2023.zip" Date="22052023"/>
 		<rule type="Marker" Number="102" Name="Mono 13E + DTT Parma" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Parma_22-05-2023.zip" Date="22052023"/>
 		<rule type="Marker" Number="5" Name="Mono 13E + DTT Pavia-Nord" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pavia-Nord_22-05-2023.zip" Date="22052023"/>
-		<rule type="Marker" Number="31" Name="Mono 13E + DTT Pergine Valsugana (TN)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pergine%20Valsugana%20(TN)_22-05-2023.zip" Date="22052023"/>
+		<rule type="Marker" Number="31" Name="Mono 13E + DTT P.Valsugana (TN)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pergine%20Valsugana%20(TN)_22-05-2023.zip" Date="22052023"/>
 		<rule type="Marker" Number="49" Name="Mono 13E + DTT Piacenza" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Piacenza_22-05-2023.zip" Date="22052023"/>
 		<rule type="Marker" Number="96" Name="Mono 13E + DTT Pianoro (BO)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pianoro%20(BO)_22-05-2023.zip" Date="10012023"/>
 		<rule type="Marker" Number="50" Name="Mono 13E + DTT Palermo" Link="https://gioppygio.it/settings/e2+dtt/Palermo/GioppyGio_E2_Mono_13E+DTT-Palermo_22-05-2023.zip" Date="22052023"/>
@@ -214,7 +214,7 @@
 		<rule type="Marker" Number="51" Name="Digitale Terrestre Parabita (LE)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Parabita%20(LE).zip" Date="21122022"/>
 		<rule type="Marker" Number="101" Name="Digitale Terrestre Parma" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Parma.zip" Date="28042023"/>
 		<rule type="Marker" Number="52" Name="Digitale Terrestre Pavia-Nord" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pavia-Nord.zip" Date="290182023"/>
-		<rule type="Marker" Number="32" Name="Digitale Terrestre Pergine Valsugana (TN)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pergine%20Valsugana%20(TN).zip" Date="25052023"/>
+		<rule type="Marker" Number="32" Name="Digitale Terrestre P.Valsugana (TN)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pergine%20Valsugana%20(TN).zip" Date="25052023"/>
 		<rule type="Marker" Number="53" Name="Digitale Terrestre Pescara" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pescara.zip" Date="23122022"/>
 		<rule type="Marker" Number="54" Name="Digitale Terrestre Piacenza" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Piacenza.zip" Date="10122022"/>
 		<rule type="Marker" Number="55" Name="Digitale Terrestre Pianoro (BO)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pianoro%20(BO).zip" Date="18032023"/>
