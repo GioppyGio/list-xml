@@ -38,6 +38,7 @@
 		<rule type="Marker" Number="30" Name="Mono 13E + DTT Italia" Link="https://gioppygio.it/settings/e2+dtt/Italia/GioppyGio_E2_Mono_13E+DTT-Italia_22-05-2023.zip" Date="22052023"/>
 		<rule type="Marker" Number="28" Name="Mono 13E + DTT Itri (LT)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Itri%20(LT)_22-05-2023.zip" Date="22052023"/>
 		<rule type="Marker" Number="29" Name="Mono 13E + DTT L'Aquila" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-L'Aquila_22-05-2023.zip" Date="22052023"/>
+		<rule type="Marker" Number="61" Name="Mono 13E + DTT Lamezia Terme" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Lamezia-Terme_22-05-2023.zip" Date="22052023"/>
 		<rule type="Marker" Number="36" Name="Mono 13E + DTT Lecce" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Mono_13E+DTT-Lecce_22-05-2023.zip" Date="22052023"/>
 		<rule type="Marker" Number="90" Name="Mono 13E + DTT Lecco" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Lecco_22-05-2023.zip" Date="22052023"/>
 		<rule type="Marker" Number="33" Name="Mono 13E + DTT Lesignano Bagni (PR)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Lesignano%20Bagni%20(PR)_22-05-2023.zip" Date="22052023"/>
@@ -74,7 +75,6 @@
 		<rule type="Marker" Number="58" Name="Mono 13E + DTT Ravenna" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Ravenna_22-05-2023.zip" Date="22052023"/>
 		<rule type="Marker" Number="59" Name="Mono 13E + DTT Reggio Cabria" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Reggio%20Calabria_22-05-2023.zip" Date="22052023"/>
 		<rule type="Marker" Number="60" Name="Mono 13E + DTT Reggio Emilia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Reggio%20Emilia_22-05-2023.zip" Date="22052023"/>
-		<rule type="Marker" Number="61" Name="Mono 13E + DTT Roma Aurelio" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Roma%20Aurelio_22-05-2023.zip" Date="22052023"/>
 		<rule type="Marker" Number="62" Name="Mono 13E + DTT Roma Est" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Roma%20Est_22-05-2023.zip" Date="22052023"/>
 		<rule type="Marker" Number="63" Name="Mono 13E + DTT Roma Nord" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Roma%20Nord_22-05-2023.zip" Date="22052023"/>
 		<rule type="Marker" Number="64" Name="Mono 13E + DTT Roma" Link="https://gioppygio.it/settings/e2+dtt/Roma/GioppyGio_E2_Mono_13E+DTT-Roma_22-05-2023.zip" Date="22052023"/>
@@ -192,6 +192,7 @@
 		<rule type="Marker" Number="29" Name="Digitale Terrestre Italia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Italia.zip" Date="10042023"/>
 		<rule type="Marker" Number="30" Name="Digitale Terrestre Itri (LT)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Itri%20(LT).zip" Date="18122022"/>
 		<rule type="Marker" Number="31" Name="Digitale Terrestre L'Aquila" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20L'Aquila.zip" Date="20122022"/>
+		<rule type="Marker" Number="67" Name="Digitale Terrestre Lamezia Terme" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lamezia-Terme.zip" Date="29052023"/>
 		<rule type="Marker" Number="33" Name="Digitale Terrestre Lecco" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lecco.zip" Date="12032023"/>
 		<rule type="Marker" Number="34" Name="Digitale Terrestre Besozzo (VA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Besozzo%20(VA).zip" Date="04032023"/>
 		<rule type="Marker" Number="35" Name="Digitale Terrestre Lesignano Bagni (PR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lesignano%20Bagni%20(PR).zip" Date="25032023"/>
@@ -225,12 +226,11 @@
 		<rule type="Marker" Number="60" Name="Digitale Terrestre PorrettaTerme (BO)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20PorrettaTerme%20(BO).zip" Date="12012023"/>
 		<rule type="Marker" Number="61" Name="Digitale Terrestre Porto Empedocle" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Porto%20Empedocle.zip" Date="28122022"/>
 		<rule type="Marker" Number="62" Name="Digitale Terrestre Prato" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Prato.zip" Date="15122022"/>
-		<rule type="Marker" Number="63" Name="Digitale Terrestre Ravenna" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ravenna.zip" Date="22012023"/>
+		<rule type="Marker" Number="63" Name="Digitale Terrestre Ravenna" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ravenna.zip" Date="29052023"/>
 		<rule type="Marker" Number="64" Name="Digitale Terrestre Reggio Calabria" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Reggio%20Calabria.zip" Date="15122022"/>
 		<rule type="Marker" Number="65" Name="Digitale Terrestre Reggio Emilia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Reggio%20Emilia.zip" Date="30122022"/>
 		<rule type="Marker" Number="66" Name="Digitale Terrestre Roma" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma.zip" Date="21122022"/>
-		<rule type="Marker" Number="67" Name="Digitale Terrestre Roma Aurelio" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma%20Aurelio.zip" Date="19102022"/>
-		<rule type="Marker" Number="68" Name="Digitale Terrestre Roma Est" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma%20Est.zip" Date="13052022"/>
+		<rule type="Marker" Number="68" Name="Digitale Terrestre Roma Est" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma%20Est.zip" Date="13052023"/>
 		<rule type="Marker" Number="69" Name="Digitale Terrestre Roma Nord" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Roma%20Nord.zip" Date="07052023"/>
 		<rule type="Marker" Number="70" Name="Digitale Terrestre Rossano (CS)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Rossano%20(CS).zip" Date="12042023"/>
 		<rule type="Marker" Number="71" Name="Digitale Terrestre Rovigo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Rovigo.zip" Date="24122022"/>
