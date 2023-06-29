@@ -24,7 +24,7 @@
 		<rule type="Marker" Number="21" Name="Mono 13E + DTT Frosinone" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Frosinone_27-06-2023.zip" Date="27062023"/>
 		<rule type="Marker" Number="22" Name="Mono 13E + DTT Gravina di Catania" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Gravina%20di%20Catania_27-06-2023.zip" Date="27062023"/>
 		<rule type="Marker" Number="72" Name="Mono 13E + DTT Gravina di Puglia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Gravina%20di%20Puglia_27-06-2023.zip" Date="27062023"/>
-    	<rule type="Marker" Number="23" Name="Mono 13E + DTT Gubbio" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Gubbio_27-06-2023.zip" Date="27062023"/>
+		<rule type="Marker" Number="23" Name="Mono 13E + DTT Gubbio" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Gubbio_27-06-2023.zip" Date="27062023"/>
 		<rule type="Marker" Number="24" Name="Mono 13E + DTT Imperia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Imperia_27-06-2023.zip" Date="27062023"/>
 		<rule type="Marker" Number="25" Name="Mono 13E + DTT Italia" Link="https://gioppygio.it/settings/e2+dtt/Italia/GioppyGio_E2_Mono_13E+DTT-Italia_27-06-2023.zip" Date="27062023"/>
 		<rule type="Marker" Number="26" Name="Mono 13E + DTT Lamezia Terme" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Lamezia-Terme_27-06-2023.zip" Date="27062023"/>
@@ -159,7 +159,7 @@
 		<rule type="Marker" Number="38" Name="Digitale Terrestre Parma" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Parma.zip" Date="28042023"/>
 		<rule type="Marker" Number="39" Name="Digitale Terrestre Pavia-Nord" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pavia-Nord.zip" Date="29012023"/>
 		<rule type="Marker" Number="40" Name="Digitale Terrestre P.Valsugana (TN)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pergine%20Valsugana%20(TN).zip" Date="25052023"/>
-		<rule type="Marker" Number="41" Name="Digitale Terrestre Pescara" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pescara.zip" Date="27052023"/>
+		<rule type="Marker" Number="41" Name="Digitale Terrestre Pescara" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pescara.zip" Date="29062023"/>
 		<rule type="Marker" Number="42" Name="Digitale Terrestre Pianoro (BO)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pianoro%20(BO).zip" Date="18032023"/>
 		<rule type="Marker" Number="43" Name="Digitale Terrestre Pisa" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pisa.zip" Date="19012023"/>
 		<rule type="Marker" Number="44" Name="Digitale Terrestre Ponte di Piave (TV)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ponte%20di%20Piave%20(TV).zip" Date="04062023"/>
@@ -179,7 +179,7 @@
 		<rule type="Marker" Number="58" Name="Digitale Terrestre Torino" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Torino.zip" Date="03062023"/>
 		<rule type="Marker" Number="59" Name="Digitale Terrestre Trani" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Trani.zip" Date="25032023"/>
 		<rule type="Marker" Number="60" Name="Digitale Terrestre Trapani" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Trapani.zip" Date="18062023"/>
-		<rule type="Marker" Number="61" Name="Digitale Terrestre Trepuzzi (LE)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Trepuzzi%5bLE%5d.zip" Date="23052023"/>
+		<rule type="Marker" Number="61" Name="Digitale Terrestre Trepuzzi (LE)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Trepuzzi%5bLE%5d.zip" Date="29062023"/>
 		<rule type="Marker" Number="62" Name="Digitale Terrestre Treviso" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Treviso.zip" Date="26052023"/>
 		<rule type="Marker" Number="63" Name="Digitale Terrestre Udine" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Udine.zip" Date="27022023"/>
 		<rule type="Marker" Number="64" Name="Digitale Terrestre Venezia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Venezia.zip" Date="21062023"/>
