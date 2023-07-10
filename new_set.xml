@@ -69,6 +69,7 @@
 		<rule type="Marker" Number="59" Name="Mono 13E + DTT Trepuzzi (LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Mono_13E+DTT-Lecce_08-07-2023.zip" Date="08072023"/>
 		<rule type="Marker" Number="60" Name="Mono 13E + DTT Treviso" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Treviso_08-07-2023.zip" Date="08072023"/>
 		<rule type="Marker" Number="61" Name="Mono 13E + DTT Udine" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Udine_08-07-2023.zip" Date="08072023"/>
+		<rule type="Marker" Number="77" Name="Mono 13E + DTT Valfurva(SO)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Valfurva%20(SO)_08-07-2023.zip" Date="08072023"/>
 		<rule type="Marker" Number="62" Name="Mono 13E + DTT Venezia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Venezia_08-07-2023.zip" Date="08072023"/>
 		<rule type="Marker" Number="63" Name="Mono 13E + DTT Vibo Valentia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Vibo_Valentia_08-07-2023.zip" Date="15052023"/>
 		<rule type="Marker" Number="64" Name="Mono 13E + DTT Vicenza" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Vicenza_08-07-2023.zip" Date="08072023"/>
@@ -130,7 +131,7 @@
 		<rule type="Marker" Number="5" Name="Digitale Terrestre Cagliari" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Cagliari.zip" Date="08012023"/>
 		<rule type="Marker" Number="6" Name="Digitale Terrestre Caprino Veronese (VR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Caprino%20Veronese%20(VR).zip" Date="23042023"/>
 		<rule type="Marker" Number="7" Name="Digitale Terrestre Catania Barriera" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Catania%20Barriera.zip" Date="30062023"/>
-		<rule type="Marker" Number="8" Name="Digitale Terrestre Catanzaro" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Catanzaro.zip" Date="29012023"/>
+		<rule type="Marker" Number="8" Name="Digitale Terrestre Catanzaro" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Catanzaro.zip" Date="10072023"/>
 		<rule type="Marker" Number="9" Name="Digitale Terrestre Cava dei Tirreni (SA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Cava%20dei%20Tirreni%20(SA).zip" Date="15042023"/>
 		<rule type="Marker" Number="10" Name="Digitale Terrestre Cheri (TO)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Cheri%20(TO).zip" Date="18052023"/>
 		<rule type="Marker" Number="11" Name="Digitale Terrestre Cosenza" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Cosenza.zip" Date="23042023"/>
