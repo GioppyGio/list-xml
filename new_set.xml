@@ -89,6 +89,7 @@
 		<rule type="Marker" Number="63" Name="Mono 13E + DTT Vibo Valentia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Vibo_Valentia_16-11-2023.zip" Date="15052023"/>
 		<rule type="Marker" Number="64" Name="Mono 13E + DTT Vicenza" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Vicenza_16-11-2023.zip" Date="16112023"/>
 		<rule type="Marker" Number="65" Name="Mono 13E + DTT Villanova D'Asti" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Villanova%20D'Asti_16-11-2023.zip" Date="16112023"/>
+		<rule type="Marker" Number="93" Name="Mono 13E + DTT Villar Perosa (TO)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Villar%20Perosa%20(TO)_16-11-2023.zip" Date="16112023"/>
 		<rule type="Marker" Number="66" Name="Mono 13E + DTT Viterbo" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Viterbo_16-11-2023.zip" Date="16112023"/>
 		<rule type="Marker" Number="67" Name="Mono 13E + DTT Voghera (PV)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Voghera%20(PV)_16-11-2023.zip" Date="16112023"/>
 		<rule type="Marker" Number="68" Name="Mono 13E + DTT Zafferana Etnea" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Zafferana_Etnea_16-11-2023.zip" Date="16112023"/>
@@ -224,9 +225,10 @@
 		<rule type="Marker" Number="85" Name="Digitale Terrestre Vibo Valentia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Vibo%20Valentia.zip" Date="16112023"/>
 		<rule type="Marker" Number="86" Name="Digitale Terrestre Vicenza" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Vicenza.zip" Date="16112023"/>
 		<rule type="Marker" Number="87" Name="Digitale Terrestre Villanova D'Asti" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Villanova%20D'Asti.zip" Date="16112023"/>
-		<rule type="Marker" Number="88" Name="Digitale Terrestre Viterbo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Viterbo.zip" Date="16112023"/>
-		<rule type="Marker" Number="89" Name="Digitale Terrestre Voghera (PV)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Voghera%20(PV).zip" Date="16112023"/>
-		<rule type="Marker" Number="90" Name="Digitale Terrestre Zafferana Etnea" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Zafferana%20Etnea.zip" Date="16112023"/>
-		<rule type="Marker" Number="91" Name="Digitale Terrestre ZuCarru (PA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20ZuCarru%20(PA).zip" Date="16112023"/>
+		<rule type="Marker" Number="98" Name="Digitale Terrestre Villar Perosa (TO)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Villar%20Perosa%20(TO).zip" Date="16112023"/>
+		<rule type="Marker" Number="89" Name="Digitale Terrestre Viterbo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Viterbo.zip" Date="16112023"/>
+		<rule type="Marker" Number="90" Name="Digitale Terrestre Voghera (PV)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Voghera%20(PV).zip" Date="16112023"/>
+		<rule type="Marker" Number="91" Name="Digitale Terrestre Zafferana Etnea" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Zafferana%20Etnea.zip" Date="16112023"/>
+		<rule type="Marker" Number="92" Name="Digitale Terrestre ZuCarru (PA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20ZuCarru%20(PA).zip" Date="16112023"/>
 	</ruleset>
 </rules>
