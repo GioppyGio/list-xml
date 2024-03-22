@@ -131,6 +131,7 @@
 		<rule type="Marker" Number="1" Name="Trial 9E-13E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_9E+13E+19E_21-03-2024.zip" Date="21032024"/>
 		<rule type="Marker" Number="2" Name="Trial 5W-13E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_5W+13E+19E_21-03-2024.zip" Date="21032024"/>
 		<rule type="Marker" Number="3" Name="Trial 13E-16E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+16E+19E_21-03-2024.zip" Date="21032024"/>
+		<rule type="Marker" Number="5" Name="Trial 13E-19E-28E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+19E+28E_21-03-2024.zip" Date="21032024"/>
 		<rule type="Marker" Number="4" Name="Trial 13E-19E-30W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+19E+30W_21-03-2024.zip" Date="21032024"/>
 	</ruleset>
 	<ruleset name="Satquadri">
@@ -187,7 +188,7 @@
 		<rule type="Marker" Number="31" Name="Digitale Terrestre Frosinone" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Frosinone.zip" Date="26122023"/>
 		<rule type="Marker" Number="32" Name="Digitale Terrestre Gravina di Catania" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Gravina%20di%20Catania.zip" Date="26122023"/>
 		<rule type="Marker" Number="33" Name="Digitale Terrestre Gravina di Puglia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Gravina%20di%20Puglia.zip" Date="26122023"/>
-		<rule type="Marker" Number="34" Name="Digitale Terrestre Gubbio" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Gubbio.zip" Date="29022024"/>
+		<rule type="Marker" Number="34" Name="Digitale Terrestre Gubbio" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Gubbio.zip" Date="22032024"/>
 		<rule type="Marker" Number="35" Name="Digitale Terrestre Imperia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Imperia.zip" Date="26122023"/>
 		<rule type="Marker" Number="36" Name="Digitale Terrestre Italia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Italia.zip" Date="14012023"/>
 		<rule type="Marker" Number="37" Name="Digitale Terrestre Lamezia Terme" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lamezia-Terme.zip" Date="26012024"/>
