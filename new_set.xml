@@ -68,7 +68,7 @@
 		<rule type="Marker" Number="39" Name="Mono 13E + DTT P.Valsugana (TN)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pergine%20Valsugana%20(TN)_26-04-2024.zip" Date="26042024"/>
 		<rule type="Marker" Number="40" Name="Mono 13E + DTT Pescara" Link="https://gioppygio.it/settings/e2+dtt/Pescara/GioppyGio_E2_Mono_13E+DTT-Pescara_26-04-2024.zip" Date="26042024"/>
 		<rule type="Marker" Number="75" Name="Mono 13E + DTT Piacenza" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Piacenza_26-04-2024.zip" Date="26042024"/>
-		<rule type="Marker" Number="41" Name="Mono 13E + DTT Pianoro (BO)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pianoro%20(BO)_26-04-2024.zip" Date="10012023"/>
+		<rule type="Marker" Number="41" Name="Mono 13E + DTT Pianoro (BO)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pianoro%20(BO)_26-04-2024.zip" Date="26042024"/>
 		<rule type="Marker" Number="42" Name="Mono 13E + DTT Pisa" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pisa_26-04-2024.zip" Date="26042024"/>
 		<rule type="Marker" Number="43" Name="Mono 13E + DTT Ponte di Piave (TV)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Ponte%20di%20Piave%20(TV)_26-04-2024.zip" Date="26042024"/>
 		<rule type="Marker" Number="44" Name="Mono 13E + DTT Pordenone" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pordenone_26-04-2024.zip" Date="26042024"/>
@@ -107,7 +107,7 @@
 		<rule type="Marker" Number="83" Name="Mono 13E + DTT Varese" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Varese_26-04-2024.zip" Date="26042024"/>
 		<rule type="Marker" Number="62" Name="Mono 13E + DTT Venezia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Venezia_26-04-2024.zip" Date="26042024"/>
 		<rule type="Marker" Number="102" Name="Mono 13E + DTT Verona" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Verona_26-04-2024.zip" Date="26042024"/>
-		<rule type="Marker" Number="63" Name="Mono 13E + DTT Vibo Valentia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Vibo_Valentia_26-04-2024.zip" Date="15052023"/>
+		<rule type="Marker" Number="63" Name="Mono 13E + DTT Vibo Valentia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Vibo_Valentia_26-04-2024.zip" Date="26042024"/>
 		<rule type="Marker" Number="64" Name="Mono 13E + DTT Vicenza" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Vicenza_26-04-2024.zip" Date="26042024"/>
 		<rule type="Marker" Number="115" Name="Mono 13E + DTT Villaguardia(CO)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Villaguardia%20(CO)_26-04-2024.zip" Date="26042024"/>
 		<rule type="Marker" Number="65" Name="Mono 13E + DTT Villanova D'Asti" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Villanova%20D'Asti_26-04-2024.zip" Date="26042024"/>
@@ -158,7 +158,7 @@
 		<rule type="Marker" Number="9" Name="Motor 75E-45W + DTT Pescara" Link="https://gioppygio.it/settings/e2+dtt/Pescara/GioppyGio_E2_Motor_45W+75E+DTT-Pescara_26-04-2024.zip" Date="26042024"/>
 		<rule type="Marker" Number="10" Name="Motor 75E-45W + DTT Roma" Link="https://gioppygio.it/settings/e2+dtt/Roma/GioppyGio_E2_Motor_45W+75E+DTT-Roma_26-04-2024.zip" Date="26042024"/>
 		<rule type="Marker" Number="11" Name="Motor 75E-45W + DTT Torino" Link="https://gioppygio.it/settings/e2+dtt/Torino/GioppyGio_E2_Motor_45W+75E+DTT-Torino_26-04-2024.zip" Date="26042024"/>
-		<rule type="Marker" Number="12" Name="Motor 75E-45W + DTT Trepuzzi (LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Motor_45W+75E+DTT-Lecce_26-04-2024.zip" Date="26122023"/>
+		<rule type="Marker" Number="12" Name="Motor 75E-45W + DTT Trepuzzi (LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Motor_45W+75E+DTT-Lecce_26-04-2024.zip" Date="26042024"/>
 	</ruleset>
 	<ruleset name="dtt">
 		<rule type="Marker" Number="1" Name="Digitale Terrestre Agrigento" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Agrigento.zip" Date="05032024"/>
@@ -195,7 +195,7 @@
 		<rule type="Marker" Number="32" Name="Digitale Terrestre Frosinone" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Frosinone.zip" Date="26122023"/>
 		<rule type="Marker" Number="33" Name="Digitale Terrestre Garda(VR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Garda%20(VR).zip" Date="15042024"/>
 		<rule type="Marker" Number="34" Name="Digitale Terrestre Gravina di Catania" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Gravina%20di%20Catania.zip" Date="26122023"/>
-		<rule type="Marker" Number="35" Name="Digitale Terrestre Gravina di Puglia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Gravina%20di%20Puglia.zip" Date="26122023"/>
+		<rule type="Marker" Number="35" Name="Digitale Terrestre Gravina di Puglia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Gravina%20di%20Puglia.zip" Date="26042024"/>
 		<rule type="Marker" Number="36" Name="Digitale Terrestre Gubbio" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Gubbio.zip" Date="26042024"/>
 		<rule type="Marker" Number="37" Name="Digitale Terrestre Imperia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Imperia.zip" Date="26122023"/>
 		<rule type="Marker" Number="38" Name="Digitale Terrestre Italia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Italia.zip" Date="19042024"/>
@@ -206,7 +206,7 @@
 		<rule type="Marker" Number="43" Name="Digitale Terrestre Lissone" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lissone.zip" Date="04022024"/>
 		<rule type="Marker" Number="44" Name="Digitale Terrestre Lucca" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Lucca.zip" Date="24022024"/>
 		<rule type="Marker" Number="45" Name="Digitale Terrestre Marostica (VI)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Marostica%20(VI).zip" Date="18022024"/>
-		<rule type="Marker" Number="46" Name="Digitale Terrestre Martina Franca (TA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Martina%20Franca.zip" Date="26122023"/>
+		<rule type="Marker" Number="46" Name="Digitale Terrestre Martina Franca (TA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Martina%20Franca.zip" Date="26042024"/>
 		<rule type="Marker" Number="47" Name="Digitale Terrestre Matera" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Matera.zip" Date="16042024"/>
 		<rule type="Marker" Number="48" Name="Digitale Terrestre Messina" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Messina.zip" Date="26122023"/>
 		<rule type="Marker" Number="49" Name="Digitale Terrestre Milano" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Milano.zip" Date="110222024"/>
