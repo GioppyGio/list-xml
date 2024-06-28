@@ -3,7 +3,7 @@
 	<ruleset name="Sat">
 		<rule type="Marker" Number="1" Name="Mono 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Mono_13E_26-06-2024.zip" Date="26062024"/>
 		<rule type="Marker" Number="2" Name="Mono 13E + DTT Agrigento" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Agrigento_26-06-2024.zip" Date="26062024"/>
-    	<rule type="Marker" Number="3" Name="Mono 13E + DTT Bologna" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Bologna_26-06-2024.zip" Date="26062024"/>
+		<rule type="Marker" Number="3" Name="Mono 13E + DTT Bologna" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Bologna_26-06-2024.zip" Date="26062024"/>
 		<rule type="Marker" Number="4" Name="Mono 13E + DTT Bolzano" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Bolzano_26-06-2024.zip" Date="26062024"/>
 		<rule type="Marker" Number="5" Name="Mono 13E + DTT Caprino Veronese (VR)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Caprino%20Veronese%20(VR)_26-06-2024.zip" Date="26062024"/>
 		<rule type="Marker" Number="6" Name="Mono 13E + DTT Castel S.Vincenzo (IS)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Castel%20S.Vincenzo%20(IS)_26-06-2024.zip" Date="26062024"/>
