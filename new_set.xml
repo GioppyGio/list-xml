@@ -123,8 +123,8 @@
 	<ruleset name="Satmotor">
 		<rule type="Marker" Number="1" Name="Motor  75E-45W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Motor_75E-45W_02-10-2024.zip" Date="02102024"/>
 		<rule type="Marker" Number="2" Name="Motor 75E-45W + DTT Enna" Link="https://gioppygio.it/settings/e2+dtt/Enna/GioppyGio_E2_Motor_45W+75E+DTT-Enna_02-10-2024.zip" Date="02102024"/>
-		<rule type="Marker" Number="3" Name="Motor 75E-45W + DTT Fermo" Link="https://gioppygio.it/settings/e2+dtt/Fermo/GioppyGio_E2_Motor_45W+75E+DTT-Fermo_02-10-2024.zip" Date="02102024"/>
-		<rule type="Marker" Number="4" Name="Motor 75E-45W + DTT Matera" Link="https://gioppygio.it/settings/e2+dtt/Matera/GioppyGio_E2_Motor_45W+75E+DTT-Matera_02-10-2024.zip" Date="02102024"/>
+		<rule type="Marker" Number="3" Name="Motor 75E-45W + DTT Fermo" Link="https://gioppygio.it/settings/e2+dtt/Fermo/GioppyGio_E2_Motor_75E_45W+DTT-Fermo_02-10-2024.zip" Date="02102024"/>
+		<rule type="Marker" Number="4" Name="Motor 75E-45W + DTT Matera" Link="https://gioppygio.it/settings/e2+dtt/Matera/GioppyGio_E2_Motor_45W%2075E%20DTT-Matera_02-10-2024.zip" Date="02102024"/>
 		<rule type="Marker" Number="5" Name="Motor 75E-45W + DTT Milano" Link="https://gioppygio.it/settings/e2+dtt/Milano/GioppyGio_E2_Motor_45W+75E+DTT-Milano_02-10-2024.zip" Date="02102024"/>
 		<rule type="Marker" Number="6" Name="Motor 75E-45W + DTT Napoli" Link="https://gioppygio.it/settings/e2+dtt/Napoli/GioppyGio_E2_Motor_45W+75E+DTT-Napoli_02-10-2024.zip" Date="02102024"/>
 		<rule type="Marker" Number="7" Name="Motor 75E-45W + DTT Palermo" Link="https://gioppygio.it/settings/e2+dtt/Palermo/GioppyGio_E2_Motor_45W+75E+DTT-Palermo_02-10-2024.zip" Date="02102024"/>
