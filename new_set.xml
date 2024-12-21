@@ -107,9 +107,10 @@
 		<rule type="Marker" Number="7" Name="Dual 13E-19E + DTT Milano" Link="https://gioppygio.it/settings/e2+dtt/Milano/GioppyGio_E2_Dual_13E+19E+DTT-Milano_15-12-2024.zip" Date="15122024"/>
 		<rule type="Marker" Number="8" Name="Dual 13E-19E + DTT Napoli" Link="https://gioppygio.it/settings/e2+dtt/Napoli/GioppyGio_E2_Dual_13E+19E+DTT-Napoli_15-12-2024.zip" Date="15122024"/>
 		<rule type="Marker" Number="9" Name="Dual 13E-19E + DTT Palermo" Link="https://gioppygio.it/settings/e2+dtt/Palermo/GioppyGio_E2_Dual_13E+19E+DTT-Palermo_15-12-2024.zip" Date="15122024"/>
-		<rule type="Marker" Number="10" Name="Dual 13E-19E + DTT Roma" Link="https://gioppygio.it/settings/e2+dtt/Roma/GioppyGio_E2_Dual_13E+19E+DTT-Roma_15-12-2024.zip" Date="15122024"/>
-		<rule type="Marker" Number="11" Name="Dual 13E-19E + DTT Torino" Link="https://gioppygio.it/settings/e2+dtt/Torino/GioppyGio_E2_Dual_13E+19E+DTT-Torino_15-12-2024.zip" Date="15122024"/>
-		<rule type="Marker" Number="12" Name="Dual 13E-19E + DTT Trepuzzi (LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Dual_13E+19E+DTT-Lecce_15-12-2024.zip" Date="15122024"/>
+		<rule type="Marker" Number="10" Name="Dual 13E-19E + DTT Pescara" Link="https://gioppygio.it/settings/e2+dtt/Pescara/GioppyGio_E2_Dual_13E+19E+DTT-Pescara_15-12-2024.zip" Date="15122024"/>
+		<rule type="Marker" Number="11" Name="Dual 13E-19E + DTT Roma" Link="https://gioppygio.it/settings/e2+dtt/Roma/GioppyGio_E2_Dual_13E+19E+DTT-Roma_15-12-2024.zip" Date="15122024"/>
+		<rule type="Marker" Number="12" Name="Dual 13E-19E + DTT Torino" Link="https://gioppygio.it/settings/e2+dtt/Torino/GioppyGio_E2_Dual_13E+19E+DTT-Torino_15-12-2024.zip" Date="15122024"/>
+		<rule type="Marker" Number="13" Name="Dual 13E-19E + DTT Trepuzzi (LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Dual_13E+19E+DTT-Lecce_15-12-2024.zip" Date="15122024"/>
 	</ruleset>
 	<ruleset name="Sattrial">
 		<rule type="Marker" Number="1" Name="Trial 9E-13E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_9E+13E+19E_15-12-2024.zip" Date="15122024"/>
@@ -132,9 +133,10 @@
 		<rule type="Marker" Number="5" Name="Motor 75E-45W + DTT Milano" Link="https://gioppygio.it/settings/e2+dtt/Milano/GioppyGio_E2_Motor_45W+75E+DTT-Milano_15-12-2024.zip" Date="15122024"/>
 		<rule type="Marker" Number="6" Name="Motor 75E-45W + DTT Napoli" Link="https://gioppygio.it/settings/e2+dtt/Napoli/GioppyGio_E2_Motor_45W+75E+DTT-Napoli_15-12-2024.zip" Date="15122024"/>
 		<rule type="Marker" Number="7" Name="Motor 75E-45W + DTT Palermo" Link="https://gioppygio.it/settings/e2+dtt/Palermo/GioppyGio_E2_Motor_45W+75E+DTT-Palermo_15-12-2024.zip" Date="15122024"/>
-		<rule type="Marker" Number="8" Name="Motor 75E-45W + DTT Roma" Link="https://gioppygio.it/settings/e2+dtt/Roma/GioppyGio_E2_Motor_45W+75E+DTT-Roma_15-12-2024.zip" Date="15122024"/>
-		<rule type="Marker" Number="9" Name="Motor 75E-45W + DTT Torino" Link="https://gioppygio.it/settings/e2+dtt/Torino/GioppyGio_E2_Motor_45W+75E+DTT-Torino_15-12-2024.zip" Date="15122024"/>
-		<rule type="Marker" Number="10" Name="Motor 75E-45W + DTT Trepuzzi (LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Motor_45W+75E+DTT-Lecce_15-12-2024.zip" Date="15122024"/>
+		<rule type="Marker" Number="8" Name="Motor 75E-45W + DTT Pescara" Link="https://gioppygio.it/settings/e2+dtt/Pescara/GioppyGio_E2_Motor_45W+75E+DTT-Pescara_15-12-2024.zip" Date="15122024"/>
+		<rule type="Marker" Number="9" Name="Motor 75E-45W + DTT Roma" Link="https://gioppygio.it/settings/e2+dtt/Roma/GioppyGio_E2_Motor_45W+75E+DTT-Roma_15-12-2024.zip" Date="15122024"/>
+		<rule type="Marker" Number="10" Name="Motor 75E-45W + DTT Torino" Link="https://gioppygio.it/settings/e2+dtt/Torino/GioppyGio_E2_Motor_45W+75E+DTT-Torino_15-12-2024.zip" Date="15122024"/>
+		<rule type="Marker" Number="11" Name="Motor 75E-45W + DTT Trepuzzi (LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Motor_45W+75E+DTT-Lecce_15-12-2024.zip" Date="15122024"/>
 	</ruleset>
 	<ruleset name="dtt">
 		<rule type="Marker" Number="1" Name="Digitale Terrestre Agrigento" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Agrigento.zip" Date="27092024"/>
