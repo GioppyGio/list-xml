@@ -72,8 +72,6 @@
 		<rule type="Marker" Number="68" Name="Mono 13E + DTT Udine" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Udine_14-01-2025.zip" Date="14012025"/>
 		<rule type="Marker" Number="69" Name="Mono 13E + DTT Venezia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Venezia_14-01-2025.zip" Date="14012025"/>
 		<rule type="Marker" Number="70" Name="Mono 13E + DTT Villanova D'Asti" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Villanova%20D'Asti_14-01-2025.zip" Date="14012025"/>
-		<rule type="Marker" Number="71" Name="Mono 13E + DTT Voghera (PV)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Voghera%20(PV)_14-01-2025.zip" Date="14012025"/>
-		<rule type="Marker" Number="72" Name="Mono 13E + DTT ZuCarru (PA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-ZuCarru%20(PA)_14-01-2025.zip" Date="14012025"/>
 	</ruleset>
 	<ruleset name="Satdual">
 		<rule type="Marker" Number="1" Name="Dual + 13E - 19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_13E+19E_14-01-2025.zip" Date="14012025"/>
@@ -183,7 +181,5 @@
 		<rule type="Marker" Number="64" Name="Digitale Terrestre Udine" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Udine.zip" Date="19062024"/>
 		<rule type="Marker" Number="65" Name="Digitale Terrestre Venezia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Venezia.zip" Date="03092024"/>
 		<rule type="Marker" Number="66" Name="Digitale Terrestre Villanova D'Asti" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Villanova%20D'Asti.zip" Date="16092024"/>
-		<rule type="Marker" Number="67" Name="Digitale Terrestre Voghera (PV)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Voghera%20(PV).zip" Date="13122024"/>
-		<rule type="Marker" Number="68" Name="Digitale Terrestre ZuCarru (PA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20ZuCarru%20(PA).zip" Date="28122024"/>
 	</ruleset>
 </rules>
