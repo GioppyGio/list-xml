@@ -62,6 +62,7 @@
 		<rule type="Marker" Number="59" Name="Mono 13E + DTT Trepuzzi (LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Mono_13E+DTT-Lecce_21-01-2025.zip" Date="21012025"/>
 		<rule type="Marker" Number="60" Name="Mono 13E + DTT Treviglio (BG)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Treviglio%20(BG)_21-01-2025.zip" Date="21012025"/>
 		<rule type="Marker" Number="61" Name="Mono 13E + DTT Villanova D'Asti" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Villanova%20D'Asti_21-01-2025.zip" Date="21012025"/>
+		<rule type="Marker" Number="62" Name="Mono 13E + DTT Voghera (PV)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Voghera%20(PV)_21-01-2025.zip" Date="21012025"/>
 	</ruleset>
 	<ruleset name="Satdual">
 		<rule type="Marker" Number="1" Name="Dual + 13E - 19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_13E+19E_21-01-2025.zip" Date="21012025"/>
@@ -76,7 +77,7 @@
 		<rule type="Marker" Number="10" Name="Dual 13E-19E + DTT Pescara" Link="https://gioppygio.it/settings/e2+dtt/Pescara/GioppyGio_E2_Dual_13E+19E+DTT-Pescara_21-01-2025.zip" Date="21012025"/>
 		<rule type="Marker" Number="11" Name="Dual 13E-19E + DTT Roma" Link="https://gioppygio.it/settings/e2+dtt/Roma/GioppyGio_E2_Dual_13E+19E+DTT-Roma_21-01-2025.zip" Date="21012025"/>
 		<rule type="Marker" Number="12" Name="Dual 13E-19E + DTT Torino" Link="https://gioppygio.it/settings/e2+dtt/Torino/GioppyGio_E2_Dual_13E+19E+DTT-Torino_21-01-2025.zip" Date="21012025"/>
-		<rule type="Marker" Number="13" Name="Dual 13E-19E + DTT Trepuzzi (LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Dual_13E+19E+DTT-Lecce_21-01-2025.zip" Date="21012025"/>
+		<rule type="Marker" Number="13" Name="Dual 13E-19E + DTT Trepuzzi(LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Dual_13E+19E+DTT-Lecce_21-01-2025.zip" Date="21012025"/>
 	</ruleset>
 	<ruleset name="Sattrial">
 		<rule type="Marker" Number="1" Name="Trial 9E-13E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_9E+13E+19E_21-01-2025.zip" Date="21012025"/>
@@ -135,7 +136,7 @@
 		<rule type="Marker" Number="27" Name="Digitale Terrestre Milazzo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Milazzo.zip" Date="11092024"/>
 		<rule type="Marker" Number="28" Name="Digitale Terrestre Montevarchi(AR)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Montevarchi%20(AR).zip" Date="28082024"/>
 		<rule type="Marker" Number="29" Name="Digitale Terrestre Monza" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Monza.zip" Date="14102024"/>
-		<rule type="Marker" Number="30" Name="Digitale Terrestre Napoli" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Napoli.zip" Date="20012025"/>
+		<rule type="Marker" Number="30" Name="Digitale Terrestre Napoli" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Napoli.zip" Date="2012025"/>
 		<rule type="Marker" Number="31" Name="Digitale Terrestre Nocera Inferiore (SA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Nocera%20Inferiore%20(SA).zip" Date="09012025"/>
 		<rule type="Marker" Number="32" Name="Digitale Terrestre Novara" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Novara.zip" Date="26122024"/>
 		<rule type="Marker" Number="33" Name="Digitale Terrestre Palermo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Palermo.zip" Date="19012025"/>
@@ -165,5 +166,6 @@
 		<rule type="Marker" Number="57" Name="Digitale Terrestre Trepuzzi (LE)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Trepuzzi%5bLE%5d.zip" Date="16012025"/>
 		<rule type="Marker" Number="58" Name="Digitale Terrestre Treviglio (BG)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Treviglio(BG).zip" Date="02012025"/>
 		<rule type="Marker" Number="59" Name="Digitale Terrestre Villanova D'Asti" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Villanova%20D'Asti.zip" Date="16012025"/>
+		<rule type="Marker" Number="94" Name="Digitale Terrestre Voghera (PV)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Voghera%20(PV).zip" Date="23012025"/>
 	</ruleset>
 </rules>
