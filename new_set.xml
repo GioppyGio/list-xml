@@ -122,7 +122,7 @@
 		<rule type="Marker" Number="11" Name="Motor 75E-45W + DTT Trepuzzi (LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Motor_45W+75E+DTT-Lecce_08-07-2025.zip" Date="08072025"/>
 	</ruleset>
 	<ruleset name="dtt">
-	    <rule type="Marker" Number="1" Name="Digitale Terrestre Aci Catena (CT)ᶰᶱʷ" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Aci%20Catena%20(CT).zip" Date="25052025"/>
+	    <rule type="Marker" Number="1" Name="Digitale Terrestre Aci Catena (CT)ᶰᶱʷ" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Aci%20Catena%20(CT).zip" Date="15072025"/>
 		<rule type="Marker" Number="2" Name="Digitale Terrestre Agrigento" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Agrigento.zip" Date="27092024"/>
 		<rule type="Marker" Number="3" Name="Digitale Terrestre Ancona" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ancona.zip" Date="07022025"/>
 		<rule type="Marker" Number="5" Name="Digitale Terrestre Ascoli" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ascoli.zip" Date="13042025"/>
