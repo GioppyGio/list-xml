@@ -3,7 +3,7 @@
 	<ruleset name="Sat">
 		<rule type="Marker" Number="1" Name="Mono 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Mono_13E_10-12-2025.zip" Date="10122025"/>
 		<rule type="Marker" Number="2" Name="Mono 13E + DTT Aci Catena (CT)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Aci%20Catena%20(CT)_10-12-2025.zip" Date="10122025"/>
-		<rule type="Marker" Number="3 Name="Mono 13E + DTT Agrigento" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Agrigento_10-12-2025.zip" Date="10122025"/>
+		<rule type="Marker" Number="3" Name="Mono 13E + DTT Agrigento" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Agrigento_10-12-2025.zip" Date="10122025"/>
 		<rule type="Marker" Number="4" Name="Mono 13E + DTT Ancona" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Ancona_10-12-2025.zip" Date="10122025"/>
 		<rule type="Marker" Number="5" Name="Mono 13E + DTT Ascoli" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Ascoli_10-12-2025.zip" Date="10122025"/>
 		<rule type="Marker" Number="6" Name="Mono 13E + DTT Atina (FR)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Atina%20(FR)_10-12-2025.zip" Date="10122025"/>
