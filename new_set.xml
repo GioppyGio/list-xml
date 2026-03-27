@@ -96,23 +96,31 @@
 		<rule type="Marker" Number="93" Name="Mono 13E + DTT Villanova D'Asti" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Villanova%20D'Asti_21-03-2026.zip" Date="21032026"/>
 		<rule type="Marker" Number="94" Name="Mono 13E + DTT Viterbo" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Viterbo_21-03-2026.zip" Date="21032026"/>
 		<rule type="Marker" Number="95" Name="Mono 13E + DTT VittorioVeneto (TV)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-VittorioVeneto(TV)_21-03-2026.zip" Date="21032026"/>
-6		<rule type="Marker" Number="96" Name="Mono 13E + DTT Voghera (PV)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Voghera%20(PV)_21-03-2026.zip" Date="21032026"/>
+    	<rule type="Marker" Number="96" Name="Mono 13E + DTT Voghera (PV)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Voghera%20(PV)_21-03-2026.zip" Date="21032026"/>
 		<rule type="Marker" Number="97" Name="Mono 13E + DTT Zafferana Etnea" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Zafferana_Etnea_21-03-2026.zip" Date="21032026"/>
 	</ruleset>
 	<ruleset name="Satdual">
 		<rule type="Marker" Number="1" Name="Dual + 13E - 19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_13E+19E_21-03-2026.zip" Date="21032026"/>
 		<rule type="Marker" Number="2" Name="Dual + 9E - 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_9E+13E_21-03-2026.zip" Date="21032026"/>
 		<rule type="Marker" Number="3" Name="Dual + 5W - 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_5W+13E_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="4" Name="Dual 13E-19E + DTT Enna" Link="https://gioppygio.it/settings/e2+dtt/Enna/GioppyGio_E2_Dual_13E+19E+DTT-Enna_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="5" Name="Dual 13E-19E + DTT Fermo" Link="https://gioppygio.it/settings/e2+dtt/Fermo/GioppyGio_E2_Dual_13E+19E+DTT-Fermo_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="6" Name="Dual 13E-19E + DTT Matera" Link="https://gioppygio.it/settings/e2+dtt/Matera/GioppyGio_E2_Dual_13E+19E+DTT-Matera_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="7" Name="Dual 13E-19E + DTT Milano" Link="https://gioppygio.it/settings/e2+dtt/Milano/GioppyGio_E2_Dual_13E+19E+DTT-Milano_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="8" Name="Dual 13E-19E + DTT Napoli" Link="https://gioppygio.it/settings/e2+dtt/Napoli/GioppyGio_E2_Dual_13E+19E+DTT-Napoli_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="9" Name="Dual 13E-19E + DTT Palermo" Link="https://gioppygio.it/settings/e2+dtt/Palermo/GioppyGio_E2_Dual_13E+19E+DTT-Palermo_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="10" Name="Dual 13E-19E + DTT Pescara" Link="https://gioppygio.it/settings/e2+dtt/Pescara/GioppyGio_E2_Dual_13E+19E+DTT-Pescara_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="11" Name="Dual 13E-19E + DTT Roma" Link="https://gioppygio.it/settings/e2+dtt/Roma/GioppyGio_E2_Dual_13E+19E+DTT-Roma_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="12" Name="Dual 13E-19E + DTT Torino" Link="https://gioppygio.it/settings/e2+dtt/Torino/GioppyGio_E2_Dual_13E+19E+DTT-Torino_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="13" Name="Dual 13E-19E + DTT Trepuzzi (LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Dual_13E+19E+DTT-Lecce_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="4" Name="Dual 13E-19E + DTT Ancona" Link="https://gioppygio.it/settings/e2+dtt/Ancona/GioppyGio_E2_Dual_13E+19E+DTT-Ancona_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="5" Name="Dual 13E-19E + DTT Bari" Link="https://gioppygio.it/settings/e2+dtt/Bari/GioppyGio_E2_Dual_13E+19E+DTT-Bari_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="6" Name="Dual 13E-19E + DTT Bologna" Link="https://gioppygio.it/settings/e2+dtt/Bologna/GioppyGio_E2_Dual_13E+19E+DTT-Bologna_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="7" Name="Dual 13E-19E + DTT Cagliari" Link="https://gioppygio.it/settings/e2+dtt/Cagliari/GioppyGio_E2_Dual_13E+19E+DTT-Cagliari_21-03-2026.zip" Date="21032026"/>
+        <rule type="Marker" Number="8" Name="Dual 13E-19E + DTT Catanzaro" Link="https://gioppygio.it/settings/e2+dtt/Catanzaro/GioppyGio_E2_Dual_13E+19E+DTT-Catanzaro_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="9" Name="Dual 13E-19E + DTT Enna" Link="https://gioppygio.it/settings/e2+dtt/Enna/GioppyGio_E2_Dual_13E+19E+DTT-Enna_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="10" Name="Dual 13E-19E + DTT Fermo" Link="https://gioppygio.it/settings/e2+dtt/Fermo/GioppyGio_E2_Dual_13E+19E+DTT-Fermo_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="11" Name="Dual 13E-19E + DTT Firenze" Link="https://gioppygio.it/settings/e2+dtt/Firenze/GioppyGio_E2_Dual_13E+19E+DTT-Firenze_21-03-2026.zip" Date="21032026"/>
+	    <rule type="Marker" Number="12" Name="Dual 13E-19E + DTT L'Aquila" Link="https://gioppygio.it/settings/e2+dtt/L'Aquila/GioppyGio_E2_Dual_13E+19E+DTT-L'Aquila_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="13" Name="Dual 13E-19E + DTT Matera" Link="https://gioppygio.it/settings/e2+dtt/Matera/GioppyGio_E2_Dual_13E+19E+DTT-Matera_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="14" Name="Dual 13E-19E + DTT Milano" Link="https://gioppygio.it/settings/e2+dtt/Milano/GioppyGio_E2_Dual_13E+19E+DTT-Milano_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="15" Name="Dual 13E-19E + DTT Napoli" Link="https://gioppygio.it/settings/e2+dtt/Napoli/GioppyGio_E2_Dual_13E+19E+DTT-Napoli_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="16" Name="Dual 13E-19E + DTT Palermo" Link="https://gioppygio.it/settings/e2+dtt/Palermo/GioppyGio_E2_Dual_13E+19E+DTT-Palermo_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="17" Name="Dual 13E-19E + DTT Pescara" Link="https://gioppygio.it/settings/e2+dtt/Pescara/GioppyGio_E2_Dual_13E+19E+DTT-Pescara_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="18" Name="Dual 13E-19E + DTT Potenza" Link="https://gioppygio.it/settings/e2+dtt/Potenza/GioppyGio_E2_Dual_13E+19E+DTT-Potenza_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="19" Name="Dual 13E-19E + DTT Roma" Link="https://gioppygio.it/settings/e2+dtt/Roma/GioppyGio_E2_Dual_13E+19E+DTT-Roma_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="20" Name="Dual 13E-19E + DTT Torino" Link="https://gioppygio.it/settings/e2+dtt/Torino/GioppyGio_E2_Dual_13E+19E+DTT-Torino_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="21" Name="Dual 13E-19E + DTT Trepuzzi (LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Dual_13E+19E+DTT-Lecce_21-03-2026.zip" Date="21032026"/>
 	</ruleset>
 	<ruleset name="Sattrial">
 		<rule type="Marker" Number="1" Name="Trial 9E-13E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_9E+13E+19E_21-03-2026.zip" Date="21032026"/>
@@ -129,16 +137,24 @@
 	</ruleset>
 	<ruleset name="Satmotor">
 		<rule type="Marker" Number="1" Name="Motor  75E-45W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Motor_75E-45W_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="2" Name="Motor 75E-45W + DTT Enna" Link="https://gioppygio.it/settings/e2+dtt/Enna/GioppyGio_E2_Motor_45W+75E+DTT-Enna_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="3" Name="Motor 75E-45W + DTT Fermo" Link="https://gioppygio.it/settings/e2+dtt/Fermo/GioppyGio_E2_Motor_45W+75E+DTT-Fermo_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="4" Name="Motor 75E-45W + DTT Matera" Link="https://gioppygio.it/settings/e2+dtt/Matera/GioppyGio_E2_Motor_45W+75E+DTT-Matera_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="5" Name="Motor 75E-45W + DTT Milano" Link="https://gioppygio.it/settings/e2+dtt/Milano/GioppyGio_E2_Motor_45W+75E+DTT-Milano_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="6" Name="Motor 75E-45W + DTT Napoli" Link="https://gioppygio.it/settings/e2+dtt/Napoli/GioppyGio_E2_Motor_45W+75E+DTT-Napoli_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="7" Name="Motor 75E-45W + DTT Palermo" Link="https://gioppygio.it/settings/e2+dtt/Palermo/GioppyGio_E2_Motor_45W+75E+DTT-Palermo_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="8" Name="Motor 75E-45W + DTT Pescara" Link="https://gioppygio.it/settings/e2+dtt/Pescara/GioppyGio_E2_Motor_45W+75E+DTT-Pescara_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="9" Name="Motor 75E-45W + DTT Roma" Link="https://gioppygio.it/settings/e2+dtt/Roma/GioppyGio_E2_Motor_45W+75E+DTT-Roma_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="10" Name="Motor 75E-45W + DTT Torino" Link="https://gioppygio.it/settings/e2+dtt/Torino/GioppyGio_E2_Motor_45W+75E+DTT-Torino_21-03-2026.zip" Date="21032026"/>
-		<rule type="Marker" Number="11" Name="Motor 75E-45W + DTT Trepuzzi (LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Motor_45W+75E+DTT-Lecce_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="2" Name="Motor 75E-45W + DTT Ancona" Link="https://gioppygio.it/settings/e2+dtt/Ancona/GioppyGio_E2_Motor_45W+75E+DTT-Ancona_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="3" Name="Motor 75E-45W + DTT Bari" Link="https://gioppygio.it/settings/e2+dtt/Bari/GioppyGio_E2_Motor_45W+75E+DTT-Bari_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="4" Name="Motor 75E-45W + DTT Bologna" Link="https://gioppygio.it/settings/e2+dtt/Bologna/GioppyGio_E2_Motor_45W+75E+DTT-Bologna_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="5" Name="Motor 75E-45W + DTT Cagliari" Link="https://gioppygio.it/settings/e2+dtt/Cagliari/GioppyGio_E2_Motor_45W+75E+DTT-Cagliari_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="6" Name="Motor 75E-45W + DTT Catanzaro" Link="https://gioppygio.it/settings/e2+dtt/Catanzaro/GioppyGio_E2_Motor_45W+75E+DTT-Catanzaro_21-03-2026.zip" Date="21032026"/>	
+		<rule type="Marker" Number="7" Name="Motor 75E-45W + DTT Enna" Link="https://gioppygio.it/settings/e2+dtt/Enna/GioppyGio_E2_Motor_45W+75E+DTT-Enna_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="8" Name="Motor 75E-45W + DTT Fermo" Link="https://gioppygio.it/settings/e2+dtt/Fermo/GioppyGio_E2_Motor_45W+75E+DTT-Fermo_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="9" Name="Motor 75E-45W + DTT Firenze" Link="https://gioppygio.it/settings/e2+dtt/Firenze/GioppyGio_E2_Motor_45W+75E+DTT-Firenze_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="10" Name="Motor 75E-45W + DTT L'Aquila" Link="https://gioppygio.it/settings/e2+dtt/L'Aquila/GioppyGio_E2_Motor_45W+75E+DTT-L'Aquila_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="11" Name="Motor 75E-45W + DTT Matera" Link="https://gioppygio.it/settings/e2+dtt/Matera/GioppyGio_E2_Motor_45W+75E+DTT-Matera_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="12" Name="Motor 75E-45W + DTT Milano" Link="https://gioppygio.it/settings/e2+dtt/Milano/GioppyGio_E2_Motor_45W+75E+DTT-Milano_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="13" Name="Motor 75E-45W + DTT Napoli" Link="https://gioppygio.it/settings/e2+dtt/Napoli/GioppyGio_E2_Motor_45W+75E+DTT-Napoli_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="14" Name="Motor 75E-45W + DTT Palermo" Link="https://gioppygio.it/settings/e2+dtt/Palermo/GioppyGio_E2_Motor_45W+75E+DTT-Palermo_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="15" Name="Motor 75E-45W + DTT Pescara" Link="https://gioppygio.it/settings/e2+dtt/Pescara/GioppyGio_E2_Motor_45W+75E+DTT-Pescara_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="16" Name="Motor 75E-45W + DTT Potenza" Link="https://gioppygio.it/settings/e2+dtt/Potenza/GioppyGio_E2_Motor_45W+75E+DTT-Potenza_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="17" Name="Motor 75E-45W + DTT Roma" Link="https://gioppygio.it/settings/e2+dtt/Roma/GioppyGio_E2_Motor_45W+75E+DTT-Roma_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="18" Name="Motor 75E-45W + DTT Torino" Link="https://gioppygio.it/settings/e2+dtt/Torino/GioppyGio_E2_Motor_45W+75E+DTT-Torino_21-03-2026.zip" Date="21032026"/>
+		<rule type="Marker" Number="19" Name="Motor 75E-45W + DTT Trepuzzi (LE)" Link="https://gioppygio.it/settings/e2+dtt/Lecce/GioppyGio_E2_Motor_45W+75E+DTT-Lecce_21-03-2026.zip" Date="21032026"/>
 	</ruleset>
 	<ruleset name="dtt">
 	    <rule type="Marker" Number="1" Name="Digitale Terrestre Aci Catena (CT)ᶰᶱʷ" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Aci%20Catena%20(CT).zip" Date="25032026"/>
