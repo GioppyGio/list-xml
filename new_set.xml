@@ -4,15 +4,15 @@
 		<rule type="Marker" Number="1" Name="Mono 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Mono_13E_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="2" Name="Mono 13E + DTT Aci Catena (CT)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Aci%20Catena%20(CT)_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="3" Name="Mono 13E + DTT Agrigento" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Agrigento_20-04-2026.zip" Date="20042026"/>
-		<rule type="Marker" Number="4" Name="Mono 13E + DTT Ancona" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Ancona_20-04-2026.zip" Date="20042026"/>
+		<rule type="Marker" Number="4" Name="Mono 13E + DTT Ancona" Link="https://gioppygio.it/settings/e2+dtt/Ancona/GioppyGio_E2_Mono_13E+DTT-Ancona_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="5" Name="Mono 13E + DTT Ascoli" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Ascoli_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="6" Name="Mono 13E + DTT Atina (FR)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Atina%20(FR)_20-04-2026.zip" Date="20042026"/>
-		<rule type="Marker" Number="7" Name="Mono 13E + DTT Bari" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Bari_20-04-2026.zip" Date="20042026"/>
+		<rule type="Marker" Number="7" Name="Mono 13E + DTT Bari" Link="https://gioppygio.it/settings/e2+dtt/Bari/GioppyGio_E2_Mono_13E+DTT-Bari_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="8" Name="Mono 13E + DTT Battipaglia (SA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Battipaglia%20(SA)_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="9" Name="Mono 13E + DTT Besozzo (VA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Besozzo%20(VA)_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="10" Name="Mono 13E + DTT Bologna" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Bologna_20-04-2026.zip" Date="20042026"/>
-		<rule type="Marker" Number="11" Name="Mono 13E + DTT Bolzano" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Bolzano_20-04-2026.zip" Date="20042026"/>
-		<rule type="Marker" Number="12" Name="Mono 13E + DTT Cagliari" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Cagliari_20-04-2026.zip" Date="20042026"/>
+		<rule type="Marker" Number="11" Name="Mono 13E + DTT Bolzano" Link="https://gioppygio.it/settings/e2+dtt/Bologna/GioppyGio_E2_Mono_13E+DTT-Bologna_20-04-2026.zip" Date="20042026"/>
+		<rule type="Marker" Number="12" Name="Mono 13E + DTT Cagliari" Link="https://gioppygio.it/settings/e2+dtt/Cagliari/GioppyGio_E2_Mono_13E+DTT-Cagliari_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="13" Name="Mono 13E + DTT Camerota (SA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Camerota%20(SA)_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="14" Name="Mono 13E + DTT Campora S.Giovanni" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Campora%20S.Giovanni_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="15" Name="Mono 13E + DTT Capodrise (CE)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Capodrise%20(CE)_20-04-2026.zip" Date="20042026"/>
@@ -22,7 +22,7 @@
 		<rule type="Marker" Number="19" Name="Mono 13E + DTT Castelvenere (BN)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Castelvenere%20(BN)_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="20" Name="Mono 13E + DTT CastelvetereSulCalore (AV).zip" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Castelvetere%20Sul%20Calore%20(AV)_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="21" Name="Mono 13E + DTT Catania Barriera" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Catania%20Barriera_20-04-2026.zip" Date="20042026"/>
-	    <rule type="Marker" Number="22" Name="Mono 13E + DTT Catanzaro" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Catanzaro_20-04-2026.zip" Date="20042026"/>
+	    <rule type="Marker" Number="22" Name="Mono 13E + DTT Catanzaro" Link="https://gioppygio.it/settings/e2+dtt/Catanzaro/GioppyGio_E2_Mono_13E+DTT-Catanzaro_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="23" Name="Mono 13E + DTT Cava dei Tirreni (SA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Cava%20dei%20Tirreni%20(SA)_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="24" Name="Mono 13E + DTT Cerignola (FG)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Cerignola%20(FG)_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="25" Name="Mono 13E + DTT Crispiano (TA)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Crispiano%20(TA)_20-04-2026.zip" Date="20042026"/>
@@ -30,7 +30,7 @@
 		<rule type="Marker" Number="27" Name="Mono 13E + DTT Fermo" Link="https://gioppygio.it/settings/e2+dtt/Fermo/GioppyGio_E2_Mono_13E+DTT-Fermo_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="28" Name="Mono 13E + DTT FiglineValdarno" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-FiglineValdarno_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="29" Name="Mono 13E + DTT Fiorano (MO)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Fiorano%20(MO)_20-04-2026.zip" Date="20042026"/>
-		<rule type="Marker" Number="30" Name="Mono 13E + DTT Firenze" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Firenze_20-04-2026.zip" Date="20042026"/>
+		<rule type="Marker" Number="30" Name="Mono 13E + DTT Firenze" Link="https://gioppygio.it/settings/e2+dtt/Firenze/GioppyGio_E2_Mono_13E+DTT-Firenze_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="31" Name="Mono 13E + DTT Foggia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Foggia_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="32" Name="Mono 13E + DTT Forchia (BN)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Forchia%20(BN)_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="33" Name="Mono 13E + DTT Gibellina (TP)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Gibellina%20(TP)_20-04-2026.zip" Date="20042026"/>
@@ -39,7 +39,7 @@
 		<rule type="Marker" Number="36" Name="Mono 13E + DTT Gravina di Puglia" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Gravina%20di%20Puglia_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="37" Name="Mono 13E + DTT Gubbio" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Gubbio_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="38" Name="Mono 13E + DTT Ispica (RG)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Ispica%20(RG)_20-04-2026.zip" Date="20042026"/>
-		<rule type="Marker" Number="39" Name="Mono 13E + DTT L'Aquila" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-L'Aquila_20-04-2026.zip" Date="20042026"/>
+		<rule type="Marker" Number="39" Name="Mono 13E + DTT L'Aquila" Link="https://gioppygio.it/settings/e2+dtt/L'Aquila/GioppyGio_E2_Mono_13E+DTT-L'Aquila_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="40" Name="Mono 13E + DTT Lamezia Terme" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Lamezia-Terme_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="41" Name="Mono 13E + DTT Levanto (SP)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Levanto%20(SP)_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="42" Name="Mono 13E + DTT Lucca" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Lucca_20-04-2026.zip" Date="20042026"/>
@@ -63,7 +63,7 @@
 		<rule type="Marker" Number="60" Name="Mono 13E + DTT Ponte di Piave (TV)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Ponte%20di%20Piave%20(TV)_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="61" Name="Mono 13E + DTT Pordenone" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Pordenone_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="62" Name="Mono 13E + DTT Porretta Terme (BO)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Porretta%20Terme%20(BO)_20-04-2026.zip" Date="20042026"/>
-		<rule type="Marker" Number="63" Name="Mono 13E + DTT Potenza" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Potenza_20-04-2026.zip" Date="20042026"/>
+		<rule type="Marker" Number="63" Name="Mono 13E + DTT Potenza" Link="https://gioppygio.it/settings/e2+dtt/Potenza/GioppyGio_E2_Mono_13E+DTT-Potenza_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="64" Name="Mono 13E + DTT Putignano" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Putignano_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="65" Name="Mono 13E + DTT Ribera (AG)" Link="https://gioppygio.it/settings/Utenti/GioppyGio_E2_Mono_13E%20DTT-Ribera%20(AG)_20-04-2026.zip" Date="20042026"/>
 		<rule type="Marker" Number="66" Name="Mono 13E + DTT Roma" Link="https://gioppygio.it/settings/e2+dtt/Roma/GioppyGio_E2_Mono_13E+DTT-Roma_20-04-2026.zip" Date="20042026"/>
